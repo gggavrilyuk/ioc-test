@@ -1531,3 +1531,4 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-07 11:05:04, 1283138, prodfindfeatures.com, domain, payload_delivery, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
 2024-06-07 11:05:02, 1283141, retdirectyourman.eu, domain, botnet_cc, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
 2024-06-07 11:04:57, 1283160, ebaoffice.com.br, domain, botnet_cc, win.ousaban, None, Ousaban, , 75, , None, 0, NDA0E
+2024-06-07 13:32:38, 1283175, xxydncg.xyz, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,Huawei Cloud Service data center, 0, drb_ra
