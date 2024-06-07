@@ -6967,3 +6967,5 @@
 2024-06-07 14:07:29,987 MainProcess __main__ INFO: Дубликаты успешно удалены из файла ip_threats.csv
 2024-06-07 14:09:43,338 MainProcess __main__ INFO: Данные успешно загружены c URL: https://threatfox.abuse.ch/export/csv/recent/
 2024-06-07 14:09:43,346 MainProcess __main__ INFO: Строка с датой последнего обновления: # Last updated: 2024-06-07 11:05:07 UTC                        #
+2024-06-07 15:22:39,247 MainProcess __main__ INFO: Данные успешно загружены c URL: https://threatfox.abuse.ch/export/csv/recent/
+2024-06-07 15:22:39,255 MainProcess __main__ INFO: Строка с датой последнего обновления: # Last updated: 2024-06-07 12:05:02 UTC                        #

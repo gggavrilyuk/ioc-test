@@ -27,7 +27,7 @@ def download_csv(url):
     response.raise_for_status()
     logger.info(f"Данные успешно загружены c URL: {url}")
     return response.text
-
+# test
 def save_temp_file(content, temp_file_path):
     """
     Сохраняет данные во временный файл.
@@ -143,7 +143,7 @@ def main():
         process_csv(temp_file_path)
         print(f"Данные успешно сохранены в соответствующие файлы\n{last_updated_line}")
         
-       # git_commit_and_push(last_updated_line)  # Коммит и пуш 
+        git_commit_and_push(last_updated_line)  # Коммит и пуш 
 
         
     except Exception as e:

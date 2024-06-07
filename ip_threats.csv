@@ -1587,3 +1587,4 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-07 11:05:04, 1283139, 206.71.149.46, ip, payload_delivery, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
 2024-06-07 11:05:03, 1283142, 206.166.251.114, ip, botnet_cc, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
 2024-06-07 11:04:57, 1283159, 109.110.184.31, ip, botnet_cc, win.ousaban, None, Ousaban, , 75, , None, 0, NDA0E
+2024-06-07 12:05:02, 1283168, 77.91.77.122, ip, botnet_cc, win.risepro, None, RisePro, , 100, None, RiseProStealer, 0, abuse_ch
