@@ -23,26 +23,25 @@ def download_csv(url):
     """
     Загружает CSV данные с указанного URL.
     """
-    logger.info("Начало загрузки данных с URL")
     response = requests.get(url)
     response.raise_for_status()
-    logger.info("Данные успешно загружены")
+    logger.info(f"Данные успешно загружены c URL: {url}")
     return response.text
 
 def save_temp_file(content, temp_file_path):
     """
     Сохраняет данные во временный файл.
     """
-    logger.info("Сохранение данных во временный файл")
+    #logger.info("Сохранение данных во временный файл")
     with open(temp_file_path, "w", newline='', encoding='utf-8') as temp_file:
         temp_file.write(content)
-    logger.info("Данные сохранены во временный файл")
+    #logger.info("Данные сохранены во временный файл")
 
 def extract_last_updated_line(temp_file_path):
     """
     Извлекает строку с датой последнего обновления из временного файла.
     """
-    logger.info("Извлечение строки с датой последнего обновления")
+    #logger.info("Извлечение строки с датой последнего обновления")
     last_updated_line = None
     with open(temp_file_path, "r", newline='', encoding='utf-8') as temp_file:
         for line in temp_file:
@@ -56,20 +55,20 @@ def write_to_file(file_path, headers, data):
     """
     Записывает данные в указанный файл, удаляя экранирование кавычек.
     """
-    logger.info(f"Запись данных в файл {file_path}")
+    #logger.info(f"Запись данных в файл {file_path}")
     file_exists = os.path.isfile(file_path)
     with open(file_path, "a", newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(headers)
         writer.writerow([field.replace('"', '') for field in data])
-    logger.info(f"Данные успешно записаны в файл {file_path}")
+    #logger.info(f"Данные успешно записаны в файл {file_path}")
 
 def remove_duplicates(file_path):
     """
     Удаляет дублирующиеся строки из файла на основании значения ioc_value.
     """
-    logger.info(f"Удаление дубликатов в файле {file_path}")
+    #logger.info(f"Удаление дубликатов в файле {file_path}")
     if not os.path.isfile(file_path):
         return
 
@@ -89,13 +88,13 @@ def remove_duplicates(file_path):
         writer = csv.writer(file)
         writer.writerow(headers)
         writer.writerows(rows)
-    logger.info(f"Дубликаты успешно удалены из файла {file_path}")
+    #logger.info(f"Дубликаты успешно удалены из файла {file_path}")
 
 def process_csv(temp_file_path):
     """
     Обрабатывает CSV файл и записывает строки в соответствующие файлы в зависимости от значения поля 'ioc_type'.
     """
-    logger.info("Обработка данных из временного файла")
+    #logger.info("Обработка данных из временного файла")
     try:
         with open(temp_file_path, "r", newline='', encoding='utf-8') as temp_file:
             csv_reader = csv.reader(temp_file)
@@ -122,12 +121,12 @@ def git_commit_and_push(last_updated_line):
     """
     Коммитит и пушит изменения в репозиторий GitHub.
     """
-    logger.info("Коммит и пуш изменений в репозиторий GitHub")
+    #logger.info("Коммит и пуш изменений в репозиторий GitHub")
     try:
         subprocess.run(["git", "add", "."], check=True)
         subprocess.run(["git", "commit", "-m", f"{last_updated_line}"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
-        logger.info("Изменения успешно запушены в репозиторий")
+        #logger.info("Изменения успешно запушены в репозиторий")
     except subprocess.CalledProcessError as e:
         logger.error(f"Ошибка при выполнении команды git: {e}")
 
@@ -144,7 +143,7 @@ def main():
         process_csv(temp_file_path)
         print(f"Данные успешно сохранены в соответствующие файлы\n{last_updated_line}")
         
-        git_commit_and_push(last_updated_line)  # Коммит и пуш 
+       # git_commit_and_push(last_updated_line)  # Коммит и пуш 
 
         
     except Exception as e:

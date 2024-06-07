@@ -1528,3 +1528,6 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-05 14:00:55, 1279160, modernwebframework.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, None, SocGholish, 0, threatcat_ch
 2024-06-05 14:00:53, 1279159, webapidevelopment.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, 2024-06-06 21:58:44, 100, None, KeitaroTDS,SocGholish, 0, threatcat_ch
 2024-06-07 10:19:40, 1283145, atlanticshoresresort.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, BLNWX,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-07 11:05:04, 1283138, prodfindfeatures.com, domain, payload_delivery, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
+2024-06-07 11:05:02, 1283141, retdirectyourman.eu, domain, botnet_cc, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
+2024-06-07 11:04:57, 1283160, ebaoffice.com.br, domain, botnet_cc, win.ousaban, None, Ousaban, , 75, , None, 0, NDA0E
