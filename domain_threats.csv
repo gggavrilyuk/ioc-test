@@ -1527,3 +1527,4 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-05 16:17:11, 1279383, hbv01.info, domain, botnet_cc, win.cryptbot, None, CryptBot, , 100, , None, 0, Gi7w0rm
 2024-06-05 14:00:55, 1279160, modernwebframework.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, None, SocGholish, 0, threatcat_ch
 2024-06-05 14:00:53, 1279159, webapidevelopment.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, 2024-06-06 21:58:44, 100, None, KeitaroTDS,SocGholish, 0, threatcat_ch
+2024-06-07 10:19:40, 1283145, atlanticshoresresort.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, BLNWX,CobaltStrike,cs-watermark-987654321, 0, drb_ra

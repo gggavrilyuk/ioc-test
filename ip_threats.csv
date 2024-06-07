@@ -1581,3 +1581,6 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-05 10:20:46, 1279151, 46.59.214.14, ip, botnet_cc, win.monero_miner, CoinMiner, Monero Miner, , 49, https://asec.ahnlab.com/en/66372/, None, 0, johannes
 2024-06-05 10:20:45, 1279152, 46.59.210.69, ip, botnet_cc, win.monero_miner, CoinMiner, Monero Miner, , 49, https://asec.ahnlab.com/en/66372/, None, 0, johannes
 2024-06-05 10:20:44, 1279154, 94.156.67.67, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, infostealer,redline,stealer, 0, SarlackLab
+2024-06-07 10:20:16, 1283150, 47.92.24.58, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,CobaltStrike,cs-watermark-391144938, 0, drb_ra
+2024-06-07 10:20:00, 1283148, 116.204.73.173, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,HWCSNET Huawei Cloud Service data center, 0, drb_ra
+2024-06-07 10:19:41, 1283146, 64.94.84.44, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, BLNWX,CobaltStrike,cs-watermark-987654321, 0, drb_ra
