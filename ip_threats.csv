@@ -1588,3 +1588,23 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-07 11:05:03, 1283142, 206.166.251.114, ip, botnet_cc, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
 2024-06-07 11:04:57, 1283159, 109.110.184.31, ip, botnet_cc, win.ousaban, None, Ousaban, , 75, , None, 0, NDA0E
 2024-06-07 12:05:02, 1283168, 77.91.77.122, ip, botnet_cc, win.risepro, None, RisePro, , 100, None, RiseProStealer, 0, abuse_ch
+2024-06-07 21:44:43, 1283215, 94.142.138.6, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, AEZA-AS,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-07 21:44:29, 1283213, 81.69.242.80, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-07 21:15:05, 1283211, 54.72.8.215, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-07 18:49:51, 1283198, 45.152.65.65, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/45.152.65.65, LUCID-AS-AP LUCIDACLOUD LIMITED,Supershell, 0, drb_ra
+2024-06-07 18:49:44, 1283197, 107.173.83.222, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/107.173.83.222, AS-COLOCROSSING,Supershell, 0, drb_ra
+2024-06-07 18:49:40, 1283196, 121.127.245.224, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/121.127.245.224, CTGSERVERLIMITED-AS-AP CTG Server Limited,Supershell, 0, drb_ra
+2024-06-07 18:49:01, 1283195, 103.145.191.123, ip, botnet_cc, win.dcrat, DarkCrystal RAT, DCRat, , 50, https://search.censys.io/hosts/103.145.191.123, CLOUDIE-AS-AP Cloudie Limited,DcRat, 0, drb_ra
+2024-06-07 18:48:44, 1283194, 70.31.125.208, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/70.31.125.208, BACOM,Qakbot, 0, drb_ra
+2024-06-07 18:48:13, 1283193, 93.123.39.194, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/93.123.39.194, Havoc,NETRESEARCH, 0, drb_ra
+2024-06-07 18:47:45, 1283192, 91.92.255.178, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/91.92.255.178, Havoc,LIMENET, 0, drb_ra
+2024-06-07 18:47:32, 1283191, 128.14.237.188, ip, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/search?resource=hosts&q=services.certificate%3A%22fd53e47565e68a25e4812aeb5fad13c10b71c8a101e261960cc26c16b7a4ea5d%22, Bianlian Go Trojan,UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, 0, drb_ra
+2024-06-07 18:47:27, 1283190, 151.236.16.18, ip, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/search?resource=hosts&q=services.certificate%3A%22d439cc347a6911dff388f7f2068af07053b70b5af71e844f6e37b27e805861fd%22, Bianlian Go Trojan,M247, 0, drb_ra
+2024-06-07 18:46:43, 1283189, 172.104.162.22, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/172.104.162.22, AKAMAI-LINODE-AP Akamai Connected Cloud,Deimos, 0, drb_ra
+2024-06-07 18:46:26, 1283188, 116.142.245.94, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/116.142.245.94, CHINA169-BACKBONE CHINA UNICOM China169 Backbone,Deimos, 0, drb_ra
+2024-06-07 18:46:14, 1283187, 5.42.100.30, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/5.42.100.30, AEZA-AS,Mythic, 0, drb_ra
+2024-06-07 18:46:11, 1283186, 54.173.147.137, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/54.173.147.137, AMAZON-AES,Mythic, 0, drb_ra
+2024-06-07 17:18:37, 1283181, 186.99.155.196, ip, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-07 17:18:36, 1283183, 103.140.186.8, ip, botnet_cc, win.blueshell, None, BlueShell, , 50, , None, 0, sparrow_intel
+2024-06-07 17:18:36, 1283184, 52.77.230.248, ip, botnet_cc, win.blueshell, None, BlueShell, , 50, , None, 0, sparrow_intel
+2024-06-07 14:51:23, 1283179, 185.251.91.214, ip, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, None, KeitaroTDS,SocGholish, 0, threatcat_ch

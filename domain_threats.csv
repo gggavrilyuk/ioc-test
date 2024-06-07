@@ -1532,3 +1532,5 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-07 11:05:02, 1283141, retdirectyourman.eu, domain, botnet_cc, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
 2024-06-07 11:04:57, 1283160, ebaoffice.com.br, domain, botnet_cc, win.ousaban, None, Ousaban, , 75, , None, 0, NDA0E
 2024-06-07 13:32:38, 1283175, xxydncg.xyz, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,Huawei Cloud Service data center, 0, drb_ra
+2024-06-07 17:18:36, 1283182, njnegro8093.duckdns.org, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-07 14:36:03, 1283178, check-ftp.ru, domain, botnet_cc, win.amadey, None, Amadey, 2024-06-07 22:48:02, 50, https://tracker.viriback.com/index.php?q=check-ftp.ru, Amadey,ViriBack, 0, abuse_ch
