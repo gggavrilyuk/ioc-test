@@ -1658,3 +1658,45 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-08 04:20:07, 1283228, 4.203.104.98, ip, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, 2024-06-08 06:16:33, 100, None, NjRAT, 0, abuse_ch
 2024-06-08 02:50:06, 1283225, 154.12.93.14, ip, botnet_cc, win.ghost_rat, Farfli,Gh0st RAT,PCRat, Ghost RAT, , 100, None, Gh0stRAT, 0, abuse_ch
 2024-06-07 23:20:06, 1283216, 93.123.39.193, ip, botnet_cc, win.socks5_systemz, None, Socks5 Systemz, , 100, None, Socks5Systemz, 0, abuse_ch
+2024-06-09 22:18:28, 1283552, 149.88.93.193, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,HFTCL-AS-AP High Family Technology Co. Limited, 0, drb_ra
+2024-06-09 18:53:05, 1283549, 194.62.250.122, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Limestone Networks Inc., 0, drb_ra
+2024-06-09 18:51:09, 1283548, 89.110.78.222, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/89.110.78.222, Hookbot Pegasus,VDSINA, 0, drb_ra
+2024-06-09 18:51:03, 1283547, 91.92.255.83, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/91.92.255.83, Hookbot Pegasus,LIMENET, 0, drb_ra
+2024-06-09 18:50:45, 1283546, 94.228.166.50, ip, botnet_cc, win.meduza, None, Meduza Stealer, , 50, https://search.censys.io/hosts/94.228.166.50, Meduza Stealer,SUNHOST-AS, 0, drb_ra
+2024-06-09 18:49:32, 1283545, 203.104.42.92, ip, botnet_cc, win.dcrat, DarkCrystal RAT, DCRat, , 50, https://search.censys.io/hosts/203.104.42.92, CHINATELECOM-FUJIAN-FUZHOU-IDC1 Fuzhou,DcRat, 0, drb_ra
+2024-06-09 18:49:14, 1283544, 1.161.82.10, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/1.161.82.10, HINET Data Communication Business Group,Qakbot, 0, drb_ra
+2024-06-09 18:49:09, 1283543, 188.54.56.236, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/188.54.56.236, Qakbot,SAUDINETSTC-AS, 0, drb_ra
+2024-06-09 18:48:52, 1283542, 157.245.248.231, ip, botnet_cc, py.responder, SpiderLabs Responder, Responder, , 50, https://search.censys.io/hosts/157.245.248.231, DIGITALOCEAN-ASN,Responder, 0, drb_ra
+2024-06-09 18:48:07, 1283541, 192.46.232.196, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/192.46.232.196, AKAMAI-LINODE-AP Akamai Connected Cloud,Havoc, 0, drb_ra
+2024-06-09 18:47:14, 1283540, 180.117.162.14, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/180.117.162.14, CHINANET-BACKBONE No.31Jin-rong Street,Deimos, 0, drb_ra
+2024-06-09 18:46:59, 1283539, 137.175.113.92, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/137.175.113.92, Deimos,PEG-SV, 0, drb_ra
+2024-06-09 18:46:40, 1283538, 163.181.140.108, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/163.181.140.108, Deimos,TAOBAO Zhejiang Taobao Network Co.Ltd, 0, drb_ra
+2024-06-09 18:45:55, 1283537, 208.123.119.159, ip, botnet_cc, win.sliver, None, Sliver, , 50, https://search.censys.io/hosts/208.123.119.159, SHOCK-1,Sliver, 0, drb_ra
+2024-06-09 16:10:04, 1283531, 185.140.53.144, ip, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 75, https://bazaar.abuse.ch/sample/635afa4851ab707d7527325d132caabb0387cb5a3ae3eccee23b3c8891fff4d5/, remcos, 0, abuse_ch
+2024-06-09 15:55:13, 1283530, 89.23.107.91, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, 2024-06-09 17:33:39, 100, None, RedLineStealer, 0, abuse_ch
+2024-06-09 15:33:35, 1283529, 39.105.27.160, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000000,Hangzhou Alibaba Advertising Co.Ltd., 0, drb_ra
+2024-06-09 14:35:13, 1283527, 37.152.57.102, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-09 13:52:59, 1283521, 154.44.29.15, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000,NetLab Global, 0, drb_ra
+2024-06-09 13:51:32, 1283516, 1.92.96.35, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Huawei Cloud Service data center, 0, drb_ra
+2024-06-09 10:38:26, 1283461, 185.164.138.158, ip, botnet_cc, unknown, None, Unknown malware, , 100, , BlackTDS, 0, Syndikalist
+2024-06-09 10:18:02, 1283510, 43.143.245.43, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-600000,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-09 07:20:54, 1283424, 196.217.71.182, ip, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-09 07:20:15, 1283459, 45.74.25.39, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 100, None, AsyncRAT,RAT, 0, abuse_ch
+2024-06-09 06:51:33, 1283453, 45.94.168.134, ip, botnet_cc, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 50, https://search.censys.io/hosts/45.94.168.134, BREEZETECH,SocGholish, 0, drb_ra
+2024-06-09 06:51:06, 1283452, 147.78.103.114, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/147.78.103.114, Hookbot Pegasus,NETRESEARCH, 0, drb_ra
+2024-06-09 06:51:00, 1283451, 64.227.156.18, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/64.227.156.18, DIGITALOCEAN-ASN,Hookbot Pegasus, 0, drb_ra
+2024-06-09 06:50:56, 1283450, 5.42.106.219, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/5.42.106.219, AEZA-AS,Hookbot Pegasus, 0, drb_ra
+2024-06-09 06:50:52, 1283449, 89.116.159.203, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/89.116.159.203, AS-HOSTINGER,Hookbot Pegasus, 0, drb_ra
+2024-06-09 06:50:37, 1283448, 147.45.71.7, ip, botnet_cc, win.meduza, None, Meduza Stealer, , 50, https://search.censys.io/hosts/147.45.71.7, AEZA-AS,Meduza Stealer, 0, drb_ra
+2024-06-09 06:49:25, 1283447, 45.157.233.27, ip, botnet_cc, win.dcrat, DarkCrystal RAT, DCRat, , 50, https://search.censys.io/hosts/45.157.233.27, DATAFOREST,DcRat, 0, drb_ra
+2024-06-09 06:49:06, 1283446, 216.137.234.175, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/216.137.234.175, MTAONLINE-AS,Qakbot, 0, drb_ra
+2024-06-09 06:48:54, 1283445, 70.31.125.48, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/70.31.125.48, BACOM,Qakbot, 0, drb_ra
+2024-06-09 06:47:45, 1283444, 144.76.91.151, ip, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/search?resource=hosts&q=services.certificate%3A%221af1fa18cb7ffdb4cb4409a56030c0abd9983826f84eab3fd0a817659b0192e6%22, Bianlian Go Trojan,HETZNER-AS, 0, drb_ra
+2024-06-09 06:47:13, 1283443, 46.167.129.231, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/46.167.129.231, Deimos,PARSONLINE Tehran - IRAN, 0, drb_ra
+2024-06-09 06:46:54, 1283442, 103.85.74.193, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/103.85.74.193, Deimos,GOALNOW-AS-AP Goalnow Network Technology Co Limited, 0, drb_ra
+2024-06-09 06:46:51, 1283441, 183.214.129.157, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/183.214.129.157, CMNET-HUNAN-AP China Mobile communications corporation,Deimos, 0, drb_ra
+2024-06-09 06:46:38, 1283440, 124.239.234.175, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/124.239.234.175, CHINANET-BACKBONE No.31Jin-rong Street,Deimos, 0, drb_ra
+2024-06-09 06:46:34, 1283439, 52.74.20.24, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/52.74.20.24, AMAZON-02,Deimos, 0, drb_ra
+2024-06-09 05:55:13, 1283435, 188.127.247.28, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-09 00:15:13, 1283425, 147.185.221.20, ip, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, 2024-06-09 01:06:46, 100, None, NjRAT, 0, abuse_ch
+2024-06-08 23:00:16, 1283423, 45.137.22.111, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
