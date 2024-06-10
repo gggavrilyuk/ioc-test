@@ -1570,3 +1570,23 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-09 07:49:52, 1283465, cloudsafeuae.com, domain, botnet_cc, win.plugx, Destroy RAT,Kaba,Korplug,Sogu,TIGERPLUG,RedDelta, PlugX, , 50, https://jp.security.ntt/tech_blog/controlplug, DarkPeony,OperationControlPlug, 0, Rony
 2024-06-09 07:20:53, 1283455, coffeecrumbs.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112585411886242149, SmartApeSG, 0, monitorsg
 2024-06-09 07:20:44, 1283431, experience-apart.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-10 20:36:02, 1283723, jkshb.su, domain, botnet_cc, win.amadey, None, Amadey, 2024-06-10 22:48:02, 50, https://tracker.viriback.com/index.php?q=jkshb.su, Amadey,ViriBack, 0, abuse_ch
+2024-06-10 13:53:04, 1283692, xiao.spicn.xyz, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,HostPapa, 0, drb_ra
+2024-06-10 13:34:51, 1283684, megacitta190004.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , None, 0, kamil_kicka
+2024-06-10 10:39:05, 1283680, vnaillslivns.shop, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-10 17:02:45, 100, None, CobaltStrike,cs-watermark-987654321,HFTCL-AS-AP High Family Technology Co. Limited, 0, drb_ra
+2024-06-10 10:39:03, 1283678, api.vnaillslivns.shop, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-10 17:02:44, 100, None, CobaltStrike,cs-watermark-987654321,HFTCL-AS-AP High Family Technology Co. Limited, 0, drb_ra
+2024-06-10 10:35:48, 1283676, ns3.collegel.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938,Huawei Cloud Service data center, 0, drb_ra
+2024-06-10 10:35:47, 1283675, ns2.collegel.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938,Huawei Cloud Service data center, 0, drb_ra
+2024-06-10 10:35:46, 1283674, ns1.collegel.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938,Huawei Cloud Service data center, 0, drb_ra
+2024-06-10 09:27:01, 1283667, gpsuser.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-10 17:00:41, 100, None, CobaltStrike,cs-watermark-163695656,MICROSOFT-CORP-MSN-AS-BLOCK, 0, drb_ra
+2024-06-10 09:26:18, 1283660, yk.test2024.sbs, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-10 16:59:17, 100, None, Amazon.com Inc.,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-10 09:26:05, 1283657, support.whatsappsignup.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-10 16:57:50, 100, None, CobaltStrike,cs-watermark-987654321,PEG TECH INC, 0, drb_ra
+2024-06-10 09:25:41, 1283654, s1.botdash.app, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-10 16:56:52, 100, None, CobaltStrike,cs-watermark-987654321,HostPapa, 0, drb_ra
+2024-06-10 08:01:24, 1283643, alphabetllc.top, domain, botnet_cc, win.lokipws, Burkina,Loki,LokiBot,LokiPWS, Loki Password Stealer (PWS), 2024-06-10 22:48:02, 75, None, infostealer,lokibot,stealer, 0, SarlackLab
+2024-06-10 07:05:14, 1283617, ctze.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-10 07:05:14, 1283618, a-bc.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-10 07:05:14, 1283619, dd-d.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-10 07:05:14, 1283620, llzl.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-10 07:05:14, 1283621, nafiskaran.com, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-10 07:05:13, 1283616, ddbc.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-10 05:51:13, 1283565, elvesofiax.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112590596579177444, SmartApeSG, 0, monitorsg

@@ -59,3 +59,4 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-05 15:48:46, 1279206, 5eef5607e73cbe3b62c0c4adf6ea924acc471de57e86f3f0b66fe8320d3fcdc9, sha256_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
 2024-06-05 15:48:42, 1279203, 22468ceb0f9991c618e4d682d304b195a65e60a6f507629561106ed815b81f3b, sha256_hash, payload, win.gcleaner, None, GCleaner, , 95, None, None, 0, Grim
 2024-06-07 11:05:01, 1283151, acba553d42b295ea8dfdc96250fe2448b98647502c1c2ccc29a142f1d5ed1e29, sha256_hash, payload, unknown, None, Unknown malware, , 100, , CleanupLoader, 0, NDA0E
+2024-06-10 13:34:51, 1283685, c4a9ef7db9783334e07106fb671d5e27e52285b18182a8c77103b699c8edf8a0, sha256_hash, payload, win.dbatloader, ModiLoader,NatsoLoader, DBatLoader, , 100, https://www.virustotal.com/gui/file/c4a9ef7db9783334e07106fb671d5e27e52285b18182a8c77103b699c8edf8a0/community, None, 0, kamil_kicka
