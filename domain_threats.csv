@@ -1590,3 +1590,23 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-10 07:05:14, 1283621, nafiskaran.com, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
 2024-06-10 07:05:13, 1283616, ddbc.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
 2024-06-10 05:51:13, 1283565, elvesofiax.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112590596579177444, SmartApeSG, 0, monitorsg
+2024-06-11 22:21:26, 1283860, img.vdtuconsole.online, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-0,MULTA-ASN1, 0, drb_ra
+2024-06-11 18:09:23, 1283843, nuevos2024.duckdns.org, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-11 18:09:23, 1283845, jokarrrrr333322.ddns.net, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-11 16:52:44, 1283837, nymsportsmen.com, domain, botnet_cc, win.plugx, Destroy RAT,Kaba,Korplug,Sogu,TIGERPLUG,RedDelta, PlugX, , 50, https://jp.security.ntt/tech_blog/controlplug, DarkPeony,OperationControlPlug, 0, Rony
+2024-06-11 16:52:44, 1283838, truckingaccidentattorneyblog.com, domain, botnet_cc, win.plugx, Destroy RAT,Kaba,Korplug,Sogu,TIGERPLUG,RedDelta, PlugX, , 50, https://jp.security.ntt/tech_blog/controlplug, DarkPeony,OperationControlPlug, 0, Rony
+2024-06-11 15:51:55, 1283817, lechiavetteusb.it, domain, payload_delivery, unknown, None, Unknown malware, , 100, , KoiLoader, 0, NDA0E
+2024-06-11 15:51:49, 1283803, www.yah00.o-r.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:48, 1283804, www.aslark.kro.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:48, 1283805, www.aslark1.kro.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:47, 1283806, www.lazor.kro.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, 2024-06-11 14:18:57, 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:45, 1283807, www.devf.n-e.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:45, 1283808, www.lfgu.n-e.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:44, 1283809, www.luvb.n-b.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:43, 1283810, www.navver.o-r.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:42, 1283811, w3.navver.o-r.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, , 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 15:51:42, 1283812, www.kepir.p-e.kr, domain, botnet_cc, win.kimsuky, None, Kimsuky, 2024-06-11 14:18:59, 49, https://asec.ahnlab.com/en/66546/, None, 0, johannes
+2024-06-11 11:55:05, 1283790, dr-networks.com, domain, botnet_cc, win.darkgate, Meh,MehCrypter, DarkGate, , 100, , DarkGate, 0, abuse_ch
+2024-06-11 08:57:21, 1283762, organic-satire-gw.aws-euc1.cloud-ara.tyk.io, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-11 19:28:17, 100, None, CobaltStrike,cs-watermark-987654321,GLOBAL CONNECTIVITY SOLUTIONS LLP, 0, drb_ra
+2024-06-11 08:56:22, 1283756, v2.events.data.microsoftsubmit.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-11 19:28:43, 100, None, CobaltStrike,cs-watermark-391144938,PEG TECH INC, 0, drb_ra
+2024-06-11 05:19:47, 1283721, listing-trackbacks.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
