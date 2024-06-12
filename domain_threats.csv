@@ -1610,3 +1610,15 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-11 08:57:21, 1283762, organic-satire-gw.aws-euc1.cloud-ara.tyk.io, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-11 19:28:17, 100, None, CobaltStrike,cs-watermark-987654321,GLOBAL CONNECTIVITY SOLUTIONS LLP, 0, drb_ra
 2024-06-11 08:56:22, 1283756, v2.events.data.microsoftsubmit.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-11 19:28:43, 100, None, CobaltStrike,cs-watermark-391144938,PEG TECH INC, 0, drb_ra
 2024-06-11 05:19:47, 1283721, listing-trackbacks.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-12 22:11:03, 1284023, fix.sougou87.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000,STARK-INDUSTRIES, 0, drb_ra
+2024-06-12 22:10:51, 1284020, cstrike.webroot.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,ORACLE-BMC-31898, 0, drb_ra
+2024-06-12 20:09:49, 1284000, service-opql05nu-1253504731.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-12 20:28:11, 100, None, CobaltStrike,cs-watermark-987654321,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-12 20:05:17, 1283991, service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-12 20:31:08, 100, None, CobaltStrike,cs-watermark-987654321,Huawei Cloud Service data center, 0, drb_ra
+2024-06-12 13:58:14, 1283928, www.qtvnews.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-12 20:26:20, 100, None, CobaltStrike,cs-watermark-666666666,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-12 13:57:37, 1283920, api.sftech.one, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-12 20:23:25, 100, None, CobaltStrike,cs-watermark-100000,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-12 08:22:12, 1283887, ad-ed.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-12 08:22:12, 1283888, asd-e.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-12 08:22:12, 1283889, ad-es.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-12 08:22:12, 1283890, ab-cc.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-12 08:22:11, 1283886, a-bcd.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-12 06:12:03, 1283866, born-administrative.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
