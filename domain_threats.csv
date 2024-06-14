@@ -1652,3 +1652,24 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-13 03:25:35, 1284047, b2b.baidusec.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-13 21:14:12, 100, None, CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
 2024-06-13 03:25:34, 1284045, tag.baidusec.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-13 21:14:12, 100, None, CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
 2024-06-13 03:24:58, 1284041, alphormo.servequake.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-13 21:09:58, 100, None, CobaltStrike,cs-watermark-666666666,Limenet, 0, drb_ra
+2024-06-14 18:22:00, 1284894, slq.onlyslq.lol, domain, botnet_cc, elf.mirai, Katana, Mirai, , 75, None, Mirai, 0, elfdigest
+2024-06-14 18:08:53, 1284618, api.ilovecats.life, domain, botnet_cc, unknown, None, Unknown malware, , 100, https://bazaar.abuse.ch/sample/aa82a608924c26c2531d884762a9768437c646076e9b4af221a01a7673dc9ca4/, Stealit, 0, NDA0E
+2024-06-14 18:08:52, 1284619, ilovecats.life, domain, botnet_cc, unknown, None, Unknown malware, , 100, https://bazaar.abuse.ch/sample/aa82a608924c26c2531d884762a9768437c646076e9b4af221a01a7673dc9ca4/, Stealit, 0, NDA0E
+2024-06-14 18:08:52, 1284622, feckwear.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112615155804423056, SmartApeSG, 0, monitorsg
+2024-06-14 18:08:49, 1284869, america-dividend.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-14 18:08:45, 1284888, kalopvard.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 80, None, Latrodectus, 0, teamcymru_S2
+2024-06-14 18:08:42, 1284889, lettecoft.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 80, None, Latrodectus, 0, teamcymru_S2
+2024-06-14 18:08:33, 1284414, cococuy8.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-14 09:05:31, 1284366, biwumii5.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-14 09:05:31, 1284412, malivscute.lol, domain, botnet_cc, unknown, None, Unknown malware, , 100, https://bazaar.abuse.ch/sample/e679b900d21374bd8d806630c9955a7623ac1700b0f0c52616feea452f3241f3/, Duvet,DuvetStealer, 0, NDA0E
+2024-06-14 09:05:30, 1284367, jegyfuy0.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-14 09:05:29, 1284368, ginidue5.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-14 09:05:29, 1284369, disypoy4.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-14 08:35:56, 1284391, www.nbch1na.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-14 21:02:39, 100, None, CobaltStrike,cs-watermark-666666666,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-14 08:35:23, 1284382, www.deerllt.store, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-14 21:05:41, 100, None, CobaltStrike,cs-watermark-987654321,PEG TECH INC, 0, drb_ra
+2024-06-14 08:35:22, 1284380, www-deer.deerllt.store, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-14 21:05:40, 100, None, CobaltStrike,cs-watermark-987654321,PEG TECH INC, 0, drb_ra
+2024-06-14 08:34:32, 1284374, jkbs168.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-14 21:06:33, 100, None, CobaltStrike,cs-watermark-987654321,HostPapa, 0, drb_ra
+2024-06-14 08:34:23, 1284371, api.chinaunion.info, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-14 21:03:17, 100, None, CobaltStrike,cs-watermark-100000,HostPapa, 0, drb_ra
+2024-06-14 06:58:36, 1284334, mnbvcxz.biz, domain, botnet_cc, win.lokipws, Burkina,Loki,LokiBot,LokiPWS, Loki Password Stealer (PWS), , 75, None, infostealer,lokibot,stealer, 0, SarlackLab
+2024-06-14 06:58:35, 1284320, businessresources.ltd, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, https://infosec.exchange/@monitorsg/112611546410077905, ClearFake, 0, monitorsg
+2024-06-14 06:58:32, 1284294, x52op6gt0i.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
