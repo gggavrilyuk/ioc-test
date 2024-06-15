@@ -138,3 +138,66 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-14 13:53:27, 1284633, e1a9b215174548a33c8569a0c9929a236e18dbd6, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
 2024-06-14 13:53:23, 1284630, 1377fc0213f68fbcf9b71c64a6529c960dcd1406, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
 2024-06-14 13:53:18, 1284627, 7b3996eb7f95fb87033b18a69f145ada5fd3825c, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:18:34, 1285347, f63e3fdfa598322bd2ededb12a2c272182824990, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:18:30, 1285344, fda03ee3b046c8ebe0e8eef5a0f8351ecdffaa64, sha1_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-15 16:18:28, 1285341, 66d6f87f587375b4ed11282774044582f75ea234, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:18:25, 1285338, 64b538270f5d509737e86191ccae8c388da58a7f, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:18:21, 1285335, 6e5eea454ec5e628f38dff07e4ce0afcdf0d2d09, sha1_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-15 16:18:18, 1285332, 2ce114d84e22839f13e4100380d89641ed536dc2, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:18:15, 1285329, fd00676430e5f4c107faee2173a83872ed989837, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:18:12, 1285326, 863f7b4b56908cb442ca705be7df48f3c96bf46b, sha1_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-15 16:18:09, 1285323, 3584eb9aa78d1f330dc08b00030e83170091af19, sha1_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-15 16:18:06, 1285320, e9f5dc27eaffe671b5e7fb980469884ac422a16b, sha1_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-15 16:18:03, 1285317, 573708eaf5ea90720c55c54e0dba672a18bc0d32, sha1_hash, payload, win.ghost_rat, Farfli,Gh0st RAT,PCRat, Ghost RAT, , 95, None, None, 0, Grim
+2024-06-15 16:18:00, 1285314, ffa63681d10949806d3a8de68610460271062ffe, sha1_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-15 16:17:57, 1285311, c9c8337faadd368e89c47101bf606267c7b5e6ab, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:54, 1285308, e57e26700132b29b3a7fc49210a639477e39baee, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:51, 1285305, 2c75049f664bccc286a8f359ec8f8db8189e7e25, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:48, 1285302, 8d4f2768136f0a65c8f3d65ab8e29deb39503fe9, sha1_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-15 16:17:45, 1285299, 3fbb06f30057a12341da2dbc8646b49a42abbb1f, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:42, 1285296, 098b2eecf841cefd12a45acc858a4fd25e4d28bb, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:39, 1285293, 7e1ff00d54798a37707803a618fd643785621d10, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:36, 1285290, f11c69ee2d79329b1af7048884731e6aad507db4, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:34, 1285287, 9ea78ce1de37216141166330012fc79ed7b3b603, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:31, 1285284, 6ce5510afdb2f6f0b4ceade4526c76c8884bb344, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:28, 1285281, cdc2bd179ced9f8cf82183dd7a7f82b796d27c95, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:25, 1285278, 37ba5ae08b28bde975619da08f4acd6c0c619a89, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:22, 1285275, c0da952791eaec1357ad01d0fb4d980ac1ad5774, sha1_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-15 16:17:19, 1285272, 31f339b81ddc63d8d6337c913d34196619b6a169, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:16, 1285269, 99c66efe20dd8f2b8f346b2405f96e632903909f, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:13, 1285266, d7efc2bf9f0c63b8259cbb1be7739bcc36b9a44d, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:10, 1285263, 940f41ce3bb77948f37f66f69a8fa41ffd5bc67c, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:17:07, 1285260, 60b6b47fd981afb55510c08652600892fcd1e46f, sha1_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-15 16:17:04, 1285257, b6254799f197b6e0e0d1a7d6b007295a3d89bf99, sha1_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-15 16:17:01, 1285254, 4970ccd617a871a017ea8de886ce5a8009f69ae3, sha1_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-15 16:16:57, 1285251, 5d026a2d5f4ad872ed4802a401374dcc4f0712b6, sha1_hash, payload, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 95, None, None, 0, Grim
+2024-06-15 16:16:53, 1285248, 480266cc35f6d3f9188b3733ccbf4f3c046056bb, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:50, 1285245, 34c8d956ef49a8ac7564ac4f79f688b4a8ce45ed, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:47, 1285242, 04bbc00a67ccffa7a2f62a81c997e8b03041f835, sha1_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-15 16:16:44, 1285239, 20a1799951576ffa42b44a9d167d88de4251a091, sha1_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-15 16:16:41, 1285236, 59a165fa4ce56624548cd140f22e6b816a6754ff, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:38, 1285233, 6aa281e9055792938a5ae86939f26c4cdc1f1c66, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:35, 1285230, 12844a806a7fea8ecd56e1fa2cca05d136d2dd7e, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:16:32, 1285227, 07a84e406d742108134c7c9fc5adf2b0b6301a2a, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:29, 1285224, 68e2d0168d3c9115f3f47572c8098a564236a1d7, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:26, 1285221, ed520e384c320d26a5f643d2b55647cc96552a45, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:22, 1285218, d2a72aa3a855684221e2370120436b2e97380d8e, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:19, 1285215, 83d8f2dce2bd3bdb97515c177e406c9fe4e54b33, sha1_hash, payload, win.blackremote, BlackRAT, BlackRemote, , 95, None, None, 0, Grim
+2024-06-15 16:16:16, 1285212, eb78e47188766d5f6241e33ccf0ffe710804fbcb, sha1_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-15 16:16:13, 1285209, 5339fd0536ff85f1178fcd8950fd2276abdc9f58, sha1_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-15 16:16:10, 1285206, f70660824b4b003c6b70d1ddb02c8f750c3c6384, sha1_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-15 16:16:07, 1285203, 52d28b2b076f582ccda0304a1e2a430c771ab8c6, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:16:03, 1285200, cc7ca35ae0b71242ffde8a3385dcb2aa1a4a69c4, sha1_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-15 16:16:00, 1285197, 603d6a74e359c52f2bf46728fae0c8cce5bb89b3, sha1_hash, payload, win.ramnit, Nimnul, Ramnit, , 95, None, None, 0, Grim
+2024-06-15 16:15:57, 1285194, 6ab9c92dd929172e0cea97e2d32c0325a1c54d7a, sha1_hash, payload, win.darkeye, None, DarkEye, , 95, None, None, 0, Grim
+2024-06-15 16:15:54, 1285191, 6ca6c70bdba3071e88c27da45ee30df3dcea0783, sha1_hash, payload, win.ramnit, Nimnul, Ramnit, , 95, None, None, 0, Grim
+2024-06-15 16:15:50, 1285188, 8b0b4f486c188da4f411f02ea6b72f60bdee3001, sha1_hash, payload, win.darkeye, None, DarkEye, , 95, None, None, 0, Grim
+2024-06-15 16:15:47, 1285185, 2e73e7c5378204cbf1b3c86cb8113f07c9d36cb6, sha1_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-15 16:15:43, 1285182, d0479b0f56db0526e9e59ff816ed143873e9dd79, sha1_hash, payload, win.darkeye, None, DarkEye, , 95, None, None, 0, Grim
+2024-06-15 16:15:40, 1285179, a62740e220e752ff326879eef1b9e16f1bdd9978, sha1_hash, payload, win.younglotus, DarkShare, YoungLotus, , 95, None, None, 0, Grim
+2024-06-15 16:15:36, 1285176, 8fbdf89b4f701cd1e334b53b2c8b28cfbfa5dcdf, sha1_hash, payload, win.strelastealer, None, StrelaStealer, , 95, None, None, 0, Grim
+2024-06-15 16:15:32, 1285173, 4cb9afa9418ec197194afb1c3b47a5d41fb5345f, sha1_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-15 16:15:27, 1285170, 5dd237d4404d6a7b85709721e8739db6a1ff6fd4, sha1_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-15 16:15:24, 1285167, 4c3d1fe63401c304fc838f9c5dd2e21e48591a7d, sha1_hash, payload, win.meterpreter, None, Meterpreter, , 95, None, None, 0, Grim
+2024-06-15 16:15:20, 1285164, 9884b3332ee0c0d3eb739c8c77f46f6385005198, sha1_hash, payload, win.webmonitor, RevCode, WebMonitor RAT, , 95, None, None, 0, Grim
+2024-06-15 16:15:16, 1285161, 6f381fa2851ceef43ea6380437c4ef9540299fe1, sha1_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
