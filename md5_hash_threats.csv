@@ -201,3 +201,54 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-15 16:15:27, 1285169, 4ccf2acb05c24e61503cd8bff61f2d50, md5_hash, payload, win.meterpreter, None, Meterpreter, , 95, None, None, 0, Grim
 2024-06-15 16:15:23, 1285166, 4fb2e04c13d6e6f444639b0ecc9a69c3, md5_hash, payload, win.webmonitor, RevCode, WebMonitor RAT, , 95, None, None, 0, Grim
 2024-06-15 16:15:19, 1285163, 50070a7e7cfe0dbe435a939d7a843e09, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:07:18, 1285595, d6d7b6eec05629a25a7a8ccef4f49c68, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:07:15, 1285592, 6e1166af854364a8668e80049abf4cca, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:07:12, 1285589, 9b3e38e023020228484dcc008d6f6e52, md5_hash, payload, win.stop, KeyPass,Djvu, STOP, , 95, None, None, 0, Grim
+2024-06-16 17:07:09, 1285586, 199b3fac9ac583cee18d6967a14ad6f4, md5_hash, payload, win.vidar, None, Vidar, , 95, None, None, 0, Grim
+2024-06-16 17:07:05, 1285583, 36b7614f2f6b0788e6c2be5def44c68f, md5_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-16 17:07:02, 1285580, 5e07420af030f60aaa585125ee30d12f, md5_hash, payload, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 95, None, None, 0, Grim
+2024-06-16 17:06:59, 1285577, 2185ecde5380054ad075b7a25ae0ea51, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:06:56, 1285574, 195d5f19f6ffde8780067e466f76b090, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-16 17:06:53, 1285571, 5788c3ef67c6f46dcb70081d218a12c2, md5_hash, payload, win.stealc, None, Stealc, , 95, None, None, 0, Grim
+2024-06-16 17:06:50, 1285568, 092cd629871089b593a564c71a86e4ba, md5_hash, payload, win.zloader, DELoader,SILENTNIGHT,Terdot, Zloader, , 95, None, None, 0, Grim
+2024-06-16 17:06:46, 1285565, f192b4e9cf07850041e19ea07cd984e3, md5_hash, payload, win.vjw0rm, None, Vjw0rm, , 95, None, None, 0, Grim
+2024-06-16 17:06:43, 1285562, 0803b65f8007f568ad3418c2ec98452d, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:06:40, 1285559, 3c5b9883cdc3677f3ea7d653514a58c6, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:06:37, 1285556, 3bc8b8ad7f36089f72370ea636dbcecd, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-16 17:06:34, 1285553, 7b87dc448c231fda9f181ae2bbfa5d13, md5_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-16 17:06:31, 1285550, 64ffe7c0fa6ac22f5acafd3ceb4aca5b, md5_hash, payload, win.xworm, None, XWorm, , 95, None, None, 0, Grim
+2024-06-16 17:06:28, 1285547, 2e7d6d1f1f1ec616eb608d1e9dc47a56, md5_hash, payload, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 95, None, None, 0, Grim
+2024-06-16 17:06:24, 1285544, 5230bc2f8f129c1cdcaa87821ef38b6d, md5_hash, payload, win.stop, KeyPass,Djvu, STOP, , 95, None, None, 0, Grim
+2024-06-16 17:06:21, 1285541, 3146f2002112e5ba7562a28ff1883f9a, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-16 17:06:17, 1285538, 14de93c0296fd8e1225cfd59f2730678, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:06:14, 1285535, 72bc650e6f4faa70ec4369109943381d, md5_hash, payload, win.ghost_rat, Farfli,Gh0st RAT,PCRat, Ghost RAT, , 95, None, None, 0, Grim
+2024-06-16 17:06:11, 1285532, 03faa241bc0007574f0ced3ac593f28a, md5_hash, payload, win.meterpreter, None, Meterpreter, , 95, None, None, 0, Grim
+2024-06-16 17:06:08, 1285529, 4d94b714b84240380b4a9f37c7e53543, md5_hash, payload, win.ghost_rat, Farfli,Gh0st RAT,PCRat, Ghost RAT, , 95, None, None, 0, Grim
+2024-06-16 17:06:04, 1285526, e9d6f283acc3e4fd3682d67fb7a0511f, md5_hash, payload, win.ghost_rat, Farfli,Gh0st RAT,PCRat, Ghost RAT, , 95, None, None, 0, Grim
+2024-06-16 17:06:01, 1285523, 1021fa67374cae06dedfcffa98e8fe1e, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-16 17:05:58, 1285520, 3c6fd2d056ed6d09b0ac9d34de202353, md5_hash, payload, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 95, None, None, 0, Grim
+2024-06-16 17:05:54, 1285517, 3fee7ded96ac1d470212d26fccc60898, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-16 17:05:51, 1285514, 49c8ca6dcd8990e9d840ec142959abe8, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-16 17:05:47, 1285511, 24a4e95f31c3c3531d50139def962795, md5_hash, payload, win.strelastealer, None, StrelaStealer, , 95, None, None, 0, Grim
+2024-06-16 17:05:44, 1285508, 1e78e781179b203275f674f4015f1512, md5_hash, payload, win.lpeclient, LPEClientTea, LPEClient, , 95, None, None, 0, Grim
+2024-06-16 17:05:40, 1285505, 4ebae29c823632e399d9842aa4b61510, md5_hash, payload, win.meterpreter, None, Meterpreter, , 95, None, None, 0, Grim
+2024-06-16 17:05:37, 1285502, 4fcd5ffc44994df50e06a0889e149b31, md5_hash, payload, win.zyklon, None, Zyklon, , 95, None, None, 0, Grim
+2024-06-16 17:05:34, 1285499, 60113e85ed093b6a5b60790e3336d664, md5_hash, payload, win.strelastealer, None, StrelaStealer, , 95, None, None, 0, Grim
+2024-06-16 17:05:29, 1285496, 0ee9a0317342d545c2bfd9e3fbd627f9, md5_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-16 17:05:24, 1285493, 9f727f8074ee96ebafec98ce52ce9686, md5_hash, payload, win.strelastealer, None, StrelaStealer, , 95, None, None, 0, Grim
+2024-06-16 17:05:19, 1285490, d6bb4c6e64ea50fc0850983b65e7364e, md5_hash, payload, win.nimgrabber, None, NimGrabber, , 95, None, None, 0, Grim
+2024-06-16 17:05:14, 1285487, 275d16ebd070c8ad1c4e3717bafe1e76, md5_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-16 17:05:07, 1285484, 55f14ddb9cb98c506b5667dc899e713b, md5_hash, payload, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 95, None, None, 0, Grim
+2024-06-16 17:05:01, 1285481, 543e80dbd2fa8ddf8cebccc1099b4609, md5_hash, payload, win.coinminer, None, Coinminer, , 95, None, None, 0, Grim
+2024-06-16 17:04:58, 1285478, 670a4332ef2c1b9565c7eabae4d96118, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:04:54, 1285475, 1194e62491f4f10fcf9350468f24008c, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-16 17:04:50, 1285472, 284afe4531821e9b523ca8f8c8765096, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:04:47, 1285469, 9b9c3e3dbe3ee53a57bfab070ee6be8e, md5_hash, payload, win.socks5_systemz, None, Socks5 Systemz, , 95, None, None, 0, Grim
+2024-06-16 17:04:43, 1285466, c04fb04ec97ed7f908f2710bd3344384, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:04:39, 1285463, a4d2113422a7e363a330179f130ac6f8, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:04:36, 1285460, b07f58e752a7a0d3e8ec003a6abf8c44, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:04:32, 1285457, eb896b51453c804f14c11eee64c0ff79, md5_hash, payload, win.ghost_rat, Farfli,Gh0st RAT,PCRat, Ghost RAT, , 95, None, None, 0, Grim
+2024-06-16 17:04:29, 1285454, c3cecbd238774e0ac01a738206b93c8f, md5_hash, payload, win.socks5_systemz, None, Socks5 Systemz, , 95, None, None, 0, Grim
+2024-06-16 17:04:25, 1285451, 3ce6c1f599dd930453ae0cfeffcef60d, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-16 17:04:21, 1285448, 132c8a585cbe28460ea7ddd653ae81a3, md5_hash, payload, win.nitol, None, Nitol, , 95, None, None, 0, Grim
+2024-06-16 17:04:17, 1285445, 35dea5908c411c55232760a766992b4d, md5_hash, payload, win.quasar_rat, CinaRAT,QuasarRAT,Yggdrasil, Quasar RAT, , 95, None, None, 0, Grim
