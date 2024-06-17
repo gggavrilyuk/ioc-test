@@ -1689,3 +1689,13 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-16 08:56:50, 1285409, appstore.windowsupdate.shop, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Google LLC, 0, drb_ra
 2024-06-16 08:25:52, 1285400, checkupgpt.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-16 21:14:27, 100, None, Cloudie Limited,CobaltStrike,cs-watermark-0, 0, drb_ra
 2024-06-16 08:24:53, 1285398, sydnc.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-16 21:14:32, 100, None, CobaltStrike,cs-watermark-987654321,Kakharov Orinbassar Maratuly, 0, drb_ra
+2024-06-17 22:14:40, 1286087, opensecurity-legacy.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,LIMENET, 0, drb_ra
+2024-06-17 19:30:48, 1286043, vip.zto.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,Hangzhou Alibaba Advertising Co.Ltd., 0, drb_ra
+2024-06-17 14:36:02, 1285765, proresupdate.com, domain, botnet_cc, win.amadey, None, Amadey, 2024-06-17 22:48:02, 50, https://tracker.viriback.com/index.php?q=proresupdate.com, Amadey,ViriBack, 0, abuse_ch
+2024-06-17 14:29:43, 1285735, icarusairlines.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112632123218375222, SmartApeSG, 0, monitorsg
+2024-06-17 14:23:14, 1285764, businessdownloads.ltd, domain, botnet_cc, win.amadey, None, Amadey, , 100, https://tria.ge/240617-qw7qnstaqd/behavioral1, c2, 0, DonPasci
+2024-06-17 13:01:56, 1285732, x99y.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, , ClearFake, 0, crep1x
+2024-06-17 10:18:53, 1285688, service-8gtq0019-1257331363.sh.tencentapigw.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-17 19:26:11, 100, None, CobaltStrike,cs-watermark-0,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-17 10:16:50, 1285685, www.thaiticketmajor.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-17 19:21:09, 100, None, CobaltStrike,cs-watermark-1,TENCENT-NET-AP-CN Tencent Building Kejizhongyi Avenue, 0, drb_ra
+2024-06-17 07:58:46, 1285675, arcf-sj.org, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-06-17 07:28:30, 1285673, feeldog.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
