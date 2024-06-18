@@ -2463,3 +2463,66 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-17 00:01:42, 1285628, 116.114.20.180, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 80, None, c2,cobalt_strike, 0, malpulse
 2024-06-17 00:01:24, 1285626, 193.239.86.156, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 80, None, c2,cobalt_strike, 0, malpulse
 2024-06-16 23:52:27, 1285624, 165.154.33.10, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000000,UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, 0, drb_ra
+2024-06-18 22:03:51, 1286400, 185.31.200.215, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, AS56971 AS56971 Cloud,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-18 22:03:42, 1286397, 43.139.124.158, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-18 20:37:27, 1286393, 193.168.143.169, ip, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 75, None, None, 0, Rony
+2024-06-18 20:37:21, 1286392, 8.138.118.107, ip, botnet_cc, win.doomedloader, None, DoomedLoader, , 50, None, doomedloader, 1, Rony
+2024-06-18 20:37:20, 1286391, 123.57.90.204, ip, botnet_cc, win.doomedloader, None, DoomedLoader, , 50, None, doomedloader, 1, Rony
+2024-06-18 18:57:48, 1286376, 47.97.31.229, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Hangzhou Alibaba Advertising Co.Ltd., 0, drb_ra
+2024-06-18 18:55:09, 1286375, 212.86.114.67, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-18 18:51:57, 1286374, 94.156.68.100, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/94.156.68.100, AsyncRAT,LIMENET, 0, drb_ra
+2024-06-18 18:51:30, 1286372, 45.138.16.66, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/45.138.16.66, AsyncRAT,SERVICES-1337-GMBH 1337-SERVICES-GMBH-NETWORK, 0, drb_ra
+2024-06-18 18:51:27, 1286371, 194.26.192.214, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/194.26.192.214, AsyncRAT,SERVICES-1337-GMBH 1337-SERVICES-GMBH-NETWORK, 0, drb_ra
+2024-06-18 18:50:51, 1286369, 193.124.115.63, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/193.124.115.63, Evilginx EvilGoPhish,MTW-AS, 0, drb_ra
+2024-06-18 18:50:38, 1286368, 43.134.118.131, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/43.134.118.131, Supershell,TENCENT-NET-AP-CN Tencent Building Kejizhongyi Avenue, 0, drb_ra
+2024-06-18 18:50:33, 1286367, 154.9.229.182, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/154.9.229.182, NETLAB-SDN,Supershell, 0, drb_ra
+2024-06-18 18:50:21, 1286366, 47.119.22.47, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/47.119.22.47, ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,Supershell, 0, drb_ra
+2024-06-18 18:49:50, 1286365, 23.94.168.52, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/23.94.168.52, AS-COLOCROSSING,Supershell, 0, drb_ra
+2024-06-18 18:49:27, 1286364, 91.92.248.143, ip, botnet_cc, win.dcrat, DarkCrystal RAT, DCRat, , 50, https://search.censys.io/hosts/91.92.248.143, DcRat,LIMENET, 0, drb_ra
+2024-06-18 18:49:15, 1286363, 69.157.7.226, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/69.157.7.226, BACOM,Qakbot, 0, drb_ra
+2024-06-18 18:49:05, 1286362, 65.20.79.2, ip, botnet_cc, win.pupy, Patpoopy, pupy, , 50, https://search.censys.io/hosts/65.20.79.2, AS-CHOOPA,Pupy RAT, 0, drb_ra
+2024-06-18 18:48:53, 1286361, 38.180.83.85, ip, botnet_cc, py.responder, SpiderLabs Responder, Responder, , 50, https://search.censys.io/hosts/38.180.83.85, HVC-AS,Responder, 0, drb_ra
+2024-06-18 18:48:40, 1286360, 195.123.219.150, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/195.123.219.150, Havoc,ITLDC-NL, 0, drb_ra
+2024-06-18 18:48:32, 1286359, 5.252.177.220, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/5.252.177.220, Havoc,MIVOCLOUD, 0, drb_ra
+2024-06-18 18:48:28, 1286358, 35.209.99.39, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/35.209.99.39, GOOGLE,Havoc, 0, drb_ra
+2024-06-18 18:48:12, 1286357, 81.43.20.223, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/81.43.20.223, Havoc,TELEFONICA_DE_ESPANA, 0, drb_ra
+2024-06-18 18:47:52, 1286356, 206.237.28.231, ip, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/search?resource=hosts&q=services.certificate%3A%225d56355ac3c569723606fb48f9360a4b506871dc20ba19eebc759bfea8d05c2b%22, Bianlian Go Trojan,CLOUDIE-AS-AP Cloudie Limited, 0, drb_ra
+2024-06-18 18:46:48, 1286355, 65.153.151.50, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/65.153.151.50, CENTURYLINK-US-LEGACY-QWEST,Deimos, 0, drb_ra
+2024-06-18 18:46:27, 1286354, 13.60.91.126, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/13.60.91.126, AMAZON-02,Mythic, 0, drb_ra
+2024-06-18 18:46:22, 1286353, 51.20.134.151, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/51.20.134.151, AMAZON-02,Mythic, 0, drb_ra
+2024-06-18 18:46:12, 1286352, 103.117.101.73, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/103.117.101.73, DMIT,Mythic, 0, drb_ra
+2024-06-18 18:46:08, 1286351, 152.42.198.168, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/152.42.198.168, DIGITALOCEAN-ASN,Mythic, 0, drb_ra
+2024-06-18 18:10:07, 1286350, 72.5.43.15, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 75, https://bazaar.abuse.ch/sample/5f5aa560b9b2d9f7ea3b9a4e05b9b9b35107dc78bd763000fe05f6b3f998f311/, asyncrat, 0, abuse_ch
+2024-06-18 15:45:18, 1286349, 94.228.166.40, ip, botnet_cc, win.quasar_rat, CinaRAT,QuasarRAT,Yggdrasil, Quasar RAT, , 100, None, QuasarRAT,RAT, 0, abuse_ch
+2024-06-18 11:27:43, 1286169, 185.172.128.110, ip, botnet_cc, osx.amos, Atomic macOS Stealer, AMOS, , 100, https://tria.ge/240618-mnmhzstfkp/behavioral1, Amos,Atomic Stealer,c2,macOS Stealer, 0, 4n6bexaminer
+2024-06-18 09:40:08, 1286168, 103.198.26.130, ip, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 75, https://bazaar.abuse.ch/sample/beadc698697b51a3858f8257267c2148557236c488b11d8057c9e2398f7be506/, remcos, 0, abuse_ch
+2024-06-18 09:00:44, 1286165, 39.100.66.199, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Hangzhou Alibaba Advertising Co.Ltd., 0, drb_ra
+2024-06-18 09:00:24, 1286161, 39.100.74.192, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,Hangzhou Alibaba Advertising Co.Ltd., 0, drb_ra
+2024-06-18 09:00:08, 1286159, 58.185.25.6, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-1359593325,SingNet, 0, drb_ra
+2024-06-18 08:59:34, 1286157, 136.144.240.165, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-349164737,Signet B.V., 0, drb_ra
+2024-06-18 08:58:59, 1286150, 142.171.234.248, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000,MULTACOM CORPORATION, 0, drb_ra
+2024-06-18 08:58:34, 1286145, 120.78.217.180, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,CobaltStrike,cs-watermark-100000, 0, drb_ra
+2024-06-18 06:51:13, 1286125, 95.216.182.224, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-18 06:51:13, 1286127, 78.47.205.62, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-18 06:50:20, 1286117, 46.246.14.14, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/46.246.14.14, AsyncRAT,PORTLANE www.portlane.com, 0, drb_ra
+2024-06-18 06:50:17, 1286116, 207.174.26.69, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/207.174.26.69, AsyncRAT,PUREVOLTAGE-INC, 0, drb_ra
+2024-06-18 06:49:48, 1286115, 34.67.130.7, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/34.67.130.7, GOOGLE-CLOUD-PLATFORM,Hookbot Pegasus, 0, drb_ra
+2024-06-18 06:49:02, 1286114, 101.35.228.105, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/101.35.228.105, Supershell,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-18 06:48:54, 1286113, 139.180.156.234, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/139.180.156.234, AS-CHOOPA,Supershell, 0, drb_ra
+2024-06-18 06:48:35, 1286112, 46.246.12.19, ip, botnet_cc, win.dcrat, DarkCrystal RAT, DCRat, , 50, https://search.censys.io/hosts/46.246.12.19, DcRat,PORTLANE www.portlane.com, 0, drb_ra
+2024-06-18 06:48:00, 1286111, 198.23.173.178, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/198.23.173.178, AS-COLOCROSSING,Havoc, 0, drb_ra
+2024-06-18 06:47:48, 1286110, 121.45.71.8, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/121.45.71.8, Havoc,TPG-INTERNET-AP TPG Telecom Limited, 0, drb_ra
+2024-06-18 06:47:44, 1286109, 182.30.23.115, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/182.30.23.115, AMAZON EXPANSION,Havoc, 0, drb_ra
+2024-06-18 06:47:41, 1286108, 45.61.135.31, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/45.61.135.31, Havoc,ROUTERHOSTING, 0, drb_ra
+2024-06-18 06:47:28, 1286107, 185.38.142.151, ip, botnet_cc, win.havoc, Havokiz, Havoc, , 50, https://search.censys.io/hosts/185.38.142.151, Havoc,NETSOLUTIONS, 0, drb_ra
+2024-06-18 06:47:06, 1286106, 185.29.8.219, ip, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/search?resource=hosts&q=services.certificate%3A%22d0af73ece64bcc9df3a9a3b8eb4184f02313fc55db43585ef1b40a148de82bd6%22, Bianlian Go Trojan,DATACLUB-SE, 0, drb_ra
+2024-06-18 06:46:44, 1286105, 202.69.47.95, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/202.69.47.95, Deimos,GERRYS-AS-AP GERRYS INFORMATION TECHNOLOGY PVT LTD., 0, drb_ra
+2024-06-18 06:45:55, 1286104, 102.44.180.221, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/102.44.180.221, Covenant,TE-AS TE-AS, 0, drb_ra
+2024-06-18 06:25:44, 1286103, 185.196.9.26, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-18 06:25:43, 1286102, 34.65.245.112, ip, botnet_cc, win.danabot, None, DanaBot, , 100, None, DanaBot, 0, abuse_ch
+2024-06-18 06:25:42, 1286100, 104.199.4.160, ip, botnet_cc, win.danabot, None, DanaBot, , 100, None, DanaBot, 0, abuse_ch
+2024-06-18 06:25:42, 1286101, 34.125.95.100, ip, botnet_cc, win.danabot, None, DanaBot, , 100, None, DanaBot, 0, abuse_ch
+2024-06-18 06:25:39, 1286099, 35.237.76.147, ip, botnet_cc, win.danabot, None, DanaBot, , 100, None, DanaBot, 0, abuse_ch
+2024-06-18 06:25:36, 1286098, 173.44.141.66, ip, botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT, , 100, None, NetSupport, 0, abuse_ch
+2024-06-18 06:25:25, 1286096, 105.154.97.216, ip, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 100, None, NjRAT, 0, abuse_ch
+2024-06-18 00:06:28, 1286093, 79.137.205.182, ip, botnet_cc, win.meduza, None, Meduza Stealer, , 80, None, c2,meduza, 0, malpulse
