@@ -1788,3 +1788,22 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-19 00:00:07, 1286406, reliseti.com, domain, botnet_cc, win.matanbuchus, None, Matanbuchus, 2024-06-19 22:48:03, 50, https://tracker.viriback.com/index.php?q=reliseti.com, Matanbuchus,ViriBack, 0, abuse_ch
 2024-06-19 00:00:05, 1286405, pentefaith.com, domain, botnet_cc, win.matanbuchus, None, Matanbuchus, 2024-06-19 22:48:02, 50, https://tracker.viriback.com/index.php?q=pentefaith.com, Matanbuchus,ViriBack, 0, abuse_ch
 2024-06-18 23:48:02, 1286404, chubcharm.com, domain, botnet_cc, win.matanbuchus, None, Matanbuchus, 2024-06-19 22:48:03, 50, https://tracker.viriback.com/index.php?q=chubcharm.com, Matanbuchus,ViriBack, 0, abuse_ch
+2024-06-20 18:47:23, 1287114, onecapitalresidences.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112650312393947364, SmartApeSG, 0, monitorsg
+2024-06-20 18:47:20, 1287108, pirkomagar.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Backconnect,Latrodectus, 0, teamcymru_S2
+2024-06-20 18:47:19, 1287109, ggrastyal.live, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Backconnect,Latrodectus, 0, teamcymru_S2
+2024-06-20 18:47:18, 1287111, ryruhuu3.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-20 16:13:22, 1287103, munan.duckdns.org, domain, botnet_cc, win.nanocore, Nancrat,NanoCore, Nanocore RAT, , 100, None, nanocore,RAT, 0, SarlackLab
+2024-06-20 14:07:45, 1286927, flynews.us, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112649286194229243, ClickFix, 0, monitorsg
+2024-06-20 13:29:52, 1286923, service-jjtluhvu-1308426789.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-20 13:29:44, 1286920, www.tiasjdwwd.shop, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, BL Networks,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-20 13:29:11, 1286916, distinctive-highlight-gw.aws-euw2.cloud-ara.tyk.io, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,GLOBAL INTERNET SOLUTIONS LLC, 0, drb_ra
+2024-06-20 13:27:50, 1286901, service-4iisjdnk-1314135568.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, Alibaba (US) Technology Co. Ltd.,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-20 13:27:43, 1286898, blacksys.deltadefenses.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Makedonski Telekom AD-Skopje, 0, drb_ra
+2024-06-20 10:54:24, 1286883, gosuslugi.zilab.ru, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,RU-JSCIOT, 0, drb_ra
+2024-06-20 06:27:29, 1286798, pelicanbcnsolutions.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112645332437392070, SmartApeSG, 0, monitorsg
+2024-06-20 06:27:28, 1286854, ndas8m92.lol, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake,ClickFix, 0, threatcat_ch
+2024-06-20 02:04:48, 1286822, iwarsut775laudrye3.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-20 02:04:48, 1286823, hjnourt38haoust1.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-20 02:04:47, 1286819, bossnacarpet.com, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-20 02:04:47, 1286820, oriondedjdissd.con-ip.com, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-20 02:04:47, 1286821, iwarsut775laudrye2.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, 2024-06-20 02:04:48, 100, , RAT,Remcos, 0, nickkuechel

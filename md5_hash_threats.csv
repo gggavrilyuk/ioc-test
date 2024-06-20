@@ -454,3 +454,59 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-19 15:48:29, 1286584, d868854c37dd7722b8ca6ca1cd08939c, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
 2024-06-19 15:48:26, 1286581, bb21b9bc8eb02f11dfa61dd0b1fd3e23, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
 2024-06-19 15:48:23, 1286578, c3f26d18690f3fbdf70643c3eb07ac52, md5_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-20 15:47:57, 1287100, 8510cb2c35805a8a67398a9970dbeac1, md5_hash, payload, win.zloader, DELoader,SILENTNIGHT,Terdot, Zloader, , 95, None, None, 0, Grim
+2024-06-20 15:47:53, 1287097, 1462794d394a8754380017d24338fcb1, md5_hash, payload, win.easystealer, None, Easy Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:47:50, 1287094, 1254f2d31bffea1b5a4b776713ff2022, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:47:46, 1287091, c484a17ffc8468f2815c0798a53427b8, md5_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-20 15:47:43, 1287088, b8a89704d7c7ca02539576bdfc10ca7a, md5_hash, payload, win.sigloader, None, SigLoader, , 95, None, None, 0, Grim
+2024-06-20 15:47:40, 1287085, 105e56a8f722fc60cb17281dc8a0d073, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-20 15:47:36, 1287082, 0c5e30ee5e8af2e7b089f05434d78766, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-20 15:47:33, 1287079, d14b4c573c57eaee2c89d1cf9638a4f7, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:47:29, 1287076, 5693d8863209b5498ff1a61caebfa9ba, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:47:26, 1287073, 5fa3ae63f9935b896a021e8288f9565d, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:47:22, 1287070, 7bad79a4e6800ef440d14f89b3907d62, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:47:19, 1287067, 0d1e72a462594eeaac2a0c3e10eee563, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:47:15, 1287064, f1938b9edbedb073a2b3c7e4ae2c2993, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-20 15:47:12, 1287061, 88c55a805ae13377d9f9c25b0331a2cc, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-20 15:47:09, 1287058, 115601c7539bec143f7a78ab15e9690e, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:47:05, 1287055, de745f10d7a70863b806490ea1901733, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:47:02, 1287052, d90bac3896456f233b419deffa9b43ee, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:59, 1287049, 1ce2b430e6a219c8a546f4583f269cb6, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:56, 1287046, 4f3b7c1477ab13bd19dd131c9252c931, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:46:53, 1287043, ea273fdf24f6fc9c25d3177e14c9773f, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:49, 1287040, fc00b5619d6ae61462d650846f99a94c, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:46, 1287037, b2f5d04fc1d63f47ec7cdc2b326b7e83, md5_hash, payload, win.vidar, None, Vidar, , 95, None, None, 0, Grim
+2024-06-20 15:46:42, 1287034, 555259d9ac1f9da27667485bfc3ab9af, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:46:39, 1287031, f7a5c03e582fc4a5034da5fa422a0f6c, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:46:35, 1287028, 9f7d8785aa5e359848ebe4d771f3de8d, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-20 15:46:32, 1287025, 82eaf1786977f55757142520f14bcf2d, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:29, 1287022, 64073b255ae31ff074cb796d8863bce3, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:24, 1287019, 0fc6af27bab3072d4b569d55a437e39c, md5_hash, payload, win.nitol, None, Nitol, , 95, None, None, 0, Grim
+2024-06-20 15:46:21, 1287016, 66bbfd82c0b1bdd60dca1d71945b42c2, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:46:18, 1287013, f70402a80d0b6fb5ebf0c34ade42ddef, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:46:14, 1287010, 52d4890bb4833c61e2055a8efe203c35, md5_hash, payload, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 95, None, None, 0, Grim
+2024-06-20 15:46:11, 1287007, d866fccd84eb3dbea08a8d9a28051c91, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:46:08, 1287004, 086b869e449ef82f3c1c6aaad4cf1780, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:46:05, 1287001, e2860fd855d83180ec5066af54fbd5fa, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:46:01, 1286998, f2205f8cbce1fd423e5146d1f21785e1, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:45:57, 1286995, 093bda46f4ebe927a99cc0e120d50d8c, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-20 15:45:53, 1286992, 33ab5cbb351fa75f5d4f3e3b5aa064a9, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-20 15:45:48, 1286989, 381fc3eab2b47ac4c556bef8545e5f69, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:45:43, 1286986, 010d9d160f522eeed25db6d665d42411, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:45:37, 1286983, abf8f46b5073ef10768aa89fc641b0d0, md5_hash, payload, win.gcleaner, None, GCleaner, , 95, None, None, 0, Grim
+2024-06-20 15:45:23, 1286980, b3db9023fe215f9cc7ea9dc71387f111, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:45:04, 1286977, b719a227f7d95a06fb1a2ff47239fbb4, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:44:57, 1286974, 086ad86cc1560ecd86555678342047fb, md5_hash, payload, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 95, None, None, 0, Grim
+2024-06-20 15:44:53, 1286971, e32b0ef62678483b230138fbd157d4cd, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:44:49, 1286968, e93601f9ae811d6f12af581f07ac12bc, md5_hash, payload, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 95, None, None, 0, Grim
+2024-06-20 15:44:45, 1286965, 118527ce6cf4b0a04bf82cdafdc77a58, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:44:41, 1286962, b4b4c53bcd47d4453bcaf6b54442a24d, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-20 15:44:37, 1286959, bfbab421024d239ea25c5b0e2d935e62, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:44:33, 1286956, 06b916a433ba1d50af4ce9d8c522c51a, md5_hash, payload, win.stealc, None, Stealc, , 95, None, None, 0, Grim
+2024-06-20 15:44:30, 1286953, a1bf651dc6c752e923bc1644b95dbbb8, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:44:26, 1286950, fb037c0e0a26a6399cc3c22f24d819db, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:44:22, 1286947, 1a01a7206f57dff164d800fcf2c58e00, md5_hash, payload, win.formbook, win.xloader, Formbook, , 95, None, None, 0, Grim
+2024-06-20 15:44:19, 1286944, 806d5e6f3df9c786138ff231a90ff67f, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:44:15, 1286941, afc2cf9b291ca4fc649575f1efe5f1cb, md5_hash, payload, win.lokipws, Burkina,Loki,LokiBot,LokiPWS, Loki Password Stealer (PWS), , 95, None, None, 0, Grim
+2024-06-20 15:44:11, 1286938, 0e1ee4b040bbbd28d2c001c95e3a8e7d, md5_hash, payload, win.agent_tesla, AgenTesla,AgentTesla,Negasteal, Agent Tesla, , 95, None, None, 0, Grim
+2024-06-20 15:44:07, 1286935, 4091638dfebcfe5eadf7d359aab4225b, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
