@@ -1,2 +1,2 @@
-2024-06-22 02:00:03,198 MainProcess __main__ INFO: Данные успешно загружены c URL: https://threatfox.abuse.ch/export/csv/recent/
-2024-06-22 02:00:03,199 MainProcess __main__ INFO: Строка с датой последнего обновления: # Last updated: 2024-06-21 22:36:02 UTC                        #
+2024-06-23 02:00:02,747 MainProcess __main__ INFO: Данные успешно загружены c URL: https://threatfox.abuse.ch/export/csv/recent/
+2024-06-23 02:00:02,748 MainProcess __main__ INFO: Строка с датой последнего обновления: # Last updated: 2024-06-22 22:20:11 UTC                        #

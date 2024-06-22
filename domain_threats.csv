@@ -1838,3 +1838,12 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-21 05:02:21, 1287166, DeadSecc-34880.portmap.host, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
 2024-06-21 05:02:18, 1287158, lake-french.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
 2024-06-21 05:02:14, 1287168, grade-excellence.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-22 22:11:43, 1287901, asevn.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-1357776117,I-SERVERS-EAST, 0, drb_ra
+2024-06-22 21:40:46, 1287895, dns.topinvestmentusa.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-678358251,The Constant Company LLC, 0, drb_ra
+2024-06-22 14:11:03, 1287698, bar-fri.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-22 13:39:05, 1287706, service-1w88bdif-1300276284.cd.tencentapigw.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-22 13:38:41, 1287701, service-nsxtuf5s-1252551592.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-22 07:21:36, 1287632, execresource.ltd, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, https://infosec.exchange/@monitorsg/112656781559387568, ClearFake, 0, monitorsg
+2024-06-22 07:21:25, 1287627, mdasidy72.mom, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake,ClickFix, 0, threatcat_ch
+2024-06-22 05:20:11, 1287659, janbours92harbu02.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-22 05:20:11, 1287660, janbours92harbu03.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
