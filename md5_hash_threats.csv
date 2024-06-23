@@ -636,3 +636,41 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-22 14:48:54, 1287725, 2985fc26d5f8ad003d24abd34368d6f2, md5_hash, payload, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 95, None, None, 0, Grim
 2024-06-22 14:48:50, 1287722, bb7170cddabbe302e36414eb9ecae880, md5_hash, payload, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 95, None, None, 0, Grim
 2024-06-22 14:48:47, 1287719, c5ed14e8dd6cb2860c6638a80812688b, md5_hash, payload, win.krakenkeylogger, None, KrakenKeylogger, , 95, None, None, 0, Grim
+2024-06-23 16:58:11, 1288131, 4fb94a7ddd79bab8fc7ef9891f4f7e19, md5_hash, payload, win.purecrypter, None, PureCrypter, , 95, None, None, 0, Grim
+2024-06-23 16:58:05, 1288128, 61d11bbbd8ae5cf03152bd6f07a369c9, md5_hash, payload, win.typhon_stealer, Typhon Reborn V2, Typhon Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:58, 1288125, 1a2a26995d43c4ad2f2c9e9e9373d5c8, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:46, 1288122, 82eb5016de6dd5b9910c5980c83f0847, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:43, 1288119, 9757937c48eee909024d8ccde820a3cf, md5_hash, payload, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 95, None, None, 0, Grim
+2024-06-23 16:57:40, 1288116, 06d6e124b49c3e56c1965786e744242d, md5_hash, payload, win.zloader, DELoader,SILENTNIGHT,Terdot, Zloader, , 95, None, None, 0, Grim
+2024-06-23 16:57:38, 1288113, e0fc3fbaa9aee9e5d558b4d7ce1cec7f, md5_hash, payload, win.krakenkeylogger, None, KrakenKeylogger, , 95, None, None, 0, Grim
+2024-06-23 16:57:35, 1288110, 84c902a553ee225db4267355720ea2cc, md5_hash, payload, win.coinminer, None, Coinminer, , 95, None, None, 0, Grim
+2024-06-23 16:57:31, 1288107, 033e16b6c1080d304d9abcc618db3bdb, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:28, 1288104, ad918477a60ad0ec51338bd30df7bfdf, md5_hash, payload, win.purecrypter, None, PureCrypter, , 95, None, None, 0, Grim
+2024-06-23 16:57:25, 1288101, 745ddafbe88e9222832618288e202d5f, md5_hash, payload, win.krakenkeylogger, None, KrakenKeylogger, , 95, None, None, 0, Grim
+2024-06-23 16:57:22, 1288098, 895531f9d849155e054903e7cc466888, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:19, 1288095, 6edd389930d9aca3fc8a8465017795c3, md5_hash, payload, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 95, None, None, 0, Grim
+2024-06-23 16:57:16, 1288092, 200f9f4aacee6abe76ff4c56869aa836, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:12, 1288089, 112de57b8288c1c154f6725f421046fc, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-23 16:57:09, 1288086, 055836239bcebdec13b95d88d3a077ac, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-23 16:57:06, 1288083, 2249fd1ccc3fff8085d19b5c61794307, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-23 16:57:03, 1288080, 12b2ae10817674da9d52f9729e1ffca0, md5_hash, payload, win.asyncrat, None, AsyncRAT, , 95, None, None, 0, Grim
+2024-06-23 16:57:00, 1288077, b140d0e0a9bfb0c0be35c9c605d046c1, md5_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-23 16:56:57, 1288074, 285bc42ebd4be5f3acdae7b575af64bf, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-23 16:56:53, 1288071, 6c149b39619395a8ba117a4cae95ba6f, md5_hash, payload, win.luca_stealer, None, Luca Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:56:50, 1288068, 2f9281010bf12890403934bdb517c2c4, md5_hash, payload, win.gcleaner, None, GCleaner, , 95, None, None, 0, Grim
+2024-06-23 16:56:47, 1288065, 4021df69fad7e54ef1154a5322b1eece, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-23 16:56:44, 1288062, 289f27e7a02f8e76ebf39d2c0c3f09e4, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-23 16:56:41, 1288059, 17642c8384eee7b5c1912c9e7abb87ef, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
+2024-06-23 16:56:38, 1288056, e62848b3576538fa77777032c232436b, md5_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-23 16:56:35, 1288053, 46eb0edbec71f3754800448272e4eb49, md5_hash, payload, win.metastealer, None, MetaStealer, , 95, None, None, 0, Grim
+2024-06-23 16:56:31, 1288050, 1fecbc51b5620e578c48a12ebeb19bc2, md5_hash, payload, win.coinminer, None, Coinminer, , 95, None, None, 0, Grim
+2024-06-23 16:56:28, 1288047, 5d860e52bfa60fec84b6a46661b45246, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:56:25, 1288044, 1e22ab0b7a7c4f661c41c49229db2686, md5_hash, payload, win.coinminer, None, Coinminer, , 95, None, None, 0, Grim
+2024-06-23 16:56:22, 1288041, c4aeaafc0507785736e000ff7e823f5e, md5_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-23 16:56:18, 1288038, 4691a9fe21f8589b793ea16f0d1749f1, md5_hash, payload, win.coinminer, None, Coinminer, , 95, None, None, 0, Grim
+2024-06-23 16:56:14, 1288035, caad5e1ae920d351c2521be2dc5f22fc, md5_hash, payload, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 95, None, None, 0, Grim
+2024-06-23 16:56:11, 1288032, df8bc20d6d4c7e66a8d0b2fb75e2cb99, md5_hash, payload, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 95, None, None, 0, Grim
+2024-06-23 16:56:07, 1288029, 44d2d87fccae6236b0ca82141e169a23, md5_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-23 16:56:04, 1288026, 85b0f825ec9f8661f2b1237a0e33ad06, md5_hash, payload, win.troystealer, None, troystealer, , 95, None, None, 0, Grim
+2024-06-23 16:56:01, 1288023, 2aa41ea0abe9338320dcd9d1ce40c0d9, md5_hash, payload, win.amadey, None, Amadey, , 95, None, None, 0, Grim
+2024-06-23 16:55:56, 1288020, 23c411b08f12615f0eefa09ebd27d822, md5_hash, payload, win.dcrat, DarkCrystal RAT, DCRat, , 95, None, None, 0, Grim
