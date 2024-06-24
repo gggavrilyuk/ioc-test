@@ -1875,3 +1875,21 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-23 05:44:09, 1287891, chemsentinel.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112662103690332890, SmartApeSG, 0, monitorsg
 2024-06-23 05:44:07, 1287919, christian-printed.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
 2024-06-23 04:46:39, 1287921, antfly50.sytes.net, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-24 18:53:31, 1288504, mcrkqm.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,Hangzhou Alibaba Advertising Co.Ltd., 0, drb_ra
+2024-06-24 18:53:23, 1288501, clever-steadily-duckling.ngrok-free.app, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,Limenet, 0, drb_ra
+2024-06-24 15:55:19, 1288288, ieatpoop.info, domain, botnet_cc, unknown, None, Unknown malware, , 100, , 185.196.9.97,NovaSentinel, 0, NDA0E
+2024-06-24 15:24:28, 1288252, intensedefense300.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112671626527542823, SmartApeSG, 0, monitorsg
+2024-06-24 15:24:23, 1288261, myoptimasunlab.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112671862339996632, SmartApeSG, 0, monitorsg
+2024-06-24 15:24:20, 1288264, swiftandfast.net, domain, botnet_cc, win.quickheal, None, QuickHeal, , 100, https://symantec-enterprise-blogs.security.com/threat-intelligence/telecoms-espionage-asia, None, 0, Gi7w0rm
+2024-06-24 15:24:18, 1288274, redroseproject.xyz, domain, botnet_cc, unknown, None, Unknown malware, , 100, , RedRose,RedRoseStealer,xx Project, 0, NDA0E
+2024-06-24 15:23:28, 1288282, mdasidy72.pics, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, , ClearFake,ClickFix, 0, crep1x
+2024-06-24 15:23:28, 1288283, mdasidy72.shop, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, , ClearFake,ClickFix, 0, crep1x
+2024-06-24 13:50:47, 1288267, cdn.biliblli.team, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,CobaltStrike,cs-watermark-666666666, 0, drb_ra
+2024-06-24 11:49:01, 1288236, mdasidy72.lol, domain, payload_delivery, js.clearfake, None, ClearFake, 2024-06-24 15:22:51, 100, None, ClearFake,ClickFix, 0, threatcat_ch
+2024-06-24 07:04:30, 1288201, guillerme.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-24 07:04:30, 1288202, sosimo.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-24 07:04:30, 1288203, antiochus.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-24 07:04:30, 1288204, aibek.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-24 07:04:30, 1288205, paulu.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-24 07:04:30, 1288206, aramazd.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-24 06:56:21, 1288017, downloaddining.rest, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, https://infosec.exchange/@monitorsg/112666800606534774, ClearFake, 0, monitorsg
