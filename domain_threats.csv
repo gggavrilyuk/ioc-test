@@ -1893,3 +1893,40 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-24 07:04:30, 1288205, paulu.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
 2024-06-24 07:04:30, 1288206, aramazd.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
 2024-06-24 06:56:21, 1288017, downloaddining.rest, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, https://infosec.exchange/@monitorsg/112666800606534774, ClearFake, 0, monitorsg
+2024-06-25 22:15:47, 1288935, swemei.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,RU-JSCIOT, 0, drb_ra
+2024-06-25 22:15:32, 1288932, service-c394iukq-1327454768.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-25 20:03:09, 1288915, spitechallengddwlsv.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/, LummaStealer, 0, NDA0E
+2024-06-25 20:03:08, 1288913, voyagedprivillywk.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/, LummaStealer, 0, NDA0E
+2024-06-25 20:03:08, 1288914, fiondationkvowos.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/, LummaStealer, 0, NDA0E
+2024-06-25 20:03:07, 1288910, surprisedscaledowp.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/, LummaStealer, 0, NDA0E
+2024-06-25 20:03:06, 1288887, xortoproject.duckdns.org, domain, botnet_cc, unknown, None, Unknown malware, , 100, , RedRoseStealer,XortoStealer, 0, NDA0E
+2024-06-25 20:03:06, 1288909, singerreasonnbasldd.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/, LummaStealer, 0, NDA0E
+2024-06-25 20:03:04, 1288891, voper.onthewifi.com, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-25 20:03:03, 1288916, varitycookypowerw.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/, LummaStealer, 0, NDA0E
+2024-06-25 14:44:33, 1288631, bheuiyo.com, domain, botnet_cc, win.socks5_systemz, None, Socks5 Systemz, , 100, , None, 0, Gi7w0rm
+2024-06-25 13:16:14, 1288626, jonmesserartwork.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112677440007070220, SmartApeSG, 0, monitorsg
+2024-06-25 12:10:10, 1288615, sssteell-com.pro, domain, botnet_cc, win.lokipws, Burkina,Loki,LokiBot,LokiPWS, Loki Password Stealer (PWS), , 75, None, infostealer,lokibot,stealer, 0, SarlackLab
+2024-06-25 12:10:08, 1288617, known-girls.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-25 12:10:07, 1288619, park-curve.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-06-25 10:15:23, 1288610, securenetwork.azureedge.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-1219727913,DIGITALOCEAN-ASN, 0, drb_ra
+2024-06-25 09:41:18, 1288589, filomeranta.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 100, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 09:41:17, 1288591, divyjai2.xyz, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-06-25 09:19:33, 1288587, loskawist.pics, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 09:19:32, 1288588, tristgodfert.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 08:50:28, 1288574, d1m4ettuq4ezj0.cloudfront.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-25 11:09:30, 100, None, Amazon.com Inc.,CobaltStrike,cs-watermark-491167506, 0, drb_ra
+2024-06-25 08:49:49, 1288568, apistudio.xyz, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-25 11:08:25, 100, None, CobaltStrike,cs-watermark-987654321,Datacamp Limited, 0, drb_ra
+2024-06-25 04:44:37, 1288523, gg.jjkk567.com, domain, botnet_cc, elf.xorddos, XORDDOS, XOR DDoS, , 100, , None, 1, ucokkarnadi
+2024-06-25 04:44:37, 1288524, gg.nnmm234.com, domain, botnet_cc, elf.xorddos, XORDDOS, XOR DDoS, , 100, , None, 1, ucokkarnadi
+2024-06-25 04:44:36, 1288520, gg.aass654.com, domain, botnet_cc, elf.xorddos, XORDDOS, XOR DDoS, , 100, , None, 1, ucokkarnadi
+2024-06-25 04:44:35, 1288522, gg.vvbb321.com, domain, botnet_cc, elf.xorddos, XORDDOS, XOR DDoS, , 100, , None, 1, ucokkarnadi
+2024-06-25 04:44:34, 1288521, gg.xxcc789.com, domain, botnet_cc, elf.xorddos, XORDDOS, XOR DDoS, , 100, , None, 1, ucokkarnadi
+2024-06-25 04:44:32, 1288514, xortoproject.online, domain, botnet_cc, unknown, None, Unknown malware, , 100, , XortoStealer, 0, NDA0E
+2024-06-25 04:44:30, 1288507, rightwaycleaninginc.com, domain, payload_delivery, win.cloudeye, GuLoader,vbdropper, CloudEyE, , 100, , AgentTesla,GuLoader, 0, NDA0E
+2024-06-25 04:44:23, 1288292, www.778981.com, domain, botnet_cc, win.formbook, win.xloader, Formbook, , 100, https://bazaar.abuse.ch/sample/7673b20b5ecc8730e714af5d2627c27d732e5a9094a6455c9c18a43d98a6481e/, Formbook, 0, NDA0E
+2024-06-25 04:44:23, 1288293, 778981.com, domain, botnet_cc, win.formbook, win.xloader, Formbook, , 100, https://bazaar.abuse.ch/sample/7673b20b5ecc8730e714af5d2627c27d732e5a9094a6455c9c18a43d98a6481e/, Formbook, 0, NDA0E
+2024-06-25 04:44:22, 1288294, finjuiceer.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 04:44:21, 1288295, jucemaster.space, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 04:44:20, 1288296, meakdgahup.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 04:44:20, 1288297, moprewaldon.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 04:44:19, 1288298, oswalfeen.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-06-25 04:44:18, 1288299, speedohasti.shop, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
