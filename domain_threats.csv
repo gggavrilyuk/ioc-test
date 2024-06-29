@@ -2351,3 +2351,14 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-28 06:49:05, 1289763, kiolok.duckdns.org, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, https://bazaar.abuse.ch/sample/7c92d300b75356ce0a554295e40e14549591c0ef320de3dd0f5f0e865b68691e/, 94.156.68.221,RemcosRAT, 0, NDA0E
 2024-06-28 06:43:28, 1289831, xortoproject1.duckdns.org, domain, botnet_cc, unknown, None, Unknown malware, , 100, , 93.190.8.37,RedRoseStealer,XortoStealer, 0, NDA0E
 2024-06-28 06:43:25, 1289762, clients.kaitenc2.de, domain, botnet_cc, elf.mirai, Katana, Mirai, , 75, None, Mirai, 0, elfdigest
+2024-06-29 18:54:03, 1290540, baidenyes.net, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,GLOBAL CONNECTIVITY SOLUTIONS LLP, 0, drb_ra
+2024-06-29 15:27:26, 1290505, funny-sam.online, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-29 18:27:53, 100, None, CGI GLOBAL LIMITED,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-06-29 14:37:50, 1290489, login-auth-office.com, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, https://x.com/500mk500/status/1806946572447383809/, Poseidon,PoseidonStealer, 0, NDA0E
+2024-06-29 14:25:05, 1290496, football-emily.gl.at.ply.gg, domain, botnet_cc, win.xworm, None, XWorm, , 100, , Xworm, 0, nickkuechel
+2024-06-29 09:00:52, 1290485, www.windowsuserapi.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-29 18:23:13, 100, None, CobaltStrike,cs-watermark-1234567890,HUAWEI CLOUDS, 0, drb_ra
+2024-06-29 06:21:32, 1290452, robsheraldry.com, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, , Poseidon,PoseidonStealer, 0, NDA0E
+2024-06-29 06:21:28, 1290434, xortoprojectnew.xyz, domain, botnet_cc, unknown, None, Unknown malware, , 100, , RedRoseStealer,XortoStealer, 0, NDA0E
+2024-06-29 06:21:26, 1290451, poseidon.cool, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, , Poseidon,PoseidonStealer, 0, NDA0E
+2024-06-29 06:21:26, 1290453, osheafarm.com, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, , Poseidon,PoseidonStealer, 0, NDA0E
+2024-06-29 06:21:25, 1290454, lascolinasresortdalas.com, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, , 79.137.192.4,Poseidon,PoseidonStealer, 0, NDA0E
+2024-06-28 23:54:00, 1290456, service-iktxibt6-1305682303.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-29 18:21:12, 100, None, ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,CobaltStrike,cs-watermark-100000000, 0, drb_ra
