@@ -2362,3 +2362,98 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-29 06:21:26, 1290453, osheafarm.com, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, , Poseidon,PoseidonStealer, 0, NDA0E
 2024-06-29 06:21:25, 1290454, lascolinasresortdalas.com, domain, botnet_cc, osx.poseidon, None, Poseidon, , 100, , 79.137.192.4,Poseidon,PoseidonStealer, 0, NDA0E
 2024-06-28 23:54:00, 1290456, service-iktxibt6-1305682303.gz.tencentapigw.com.cn, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-29 18:21:12, 100, None, ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.Ltd.,CobaltStrike,cs-watermark-100000000, 0, drb_ra
+2024-06-30 21:00:04, 1291297, londopas.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 22:42:02, 75, https://threatview.io/Downloads/High-Confidence-CobaltstrikeC2_platforms.txt, CobaltStrike,threatview-io, 0, abuse_ch
+2024-06-30 21:00:03, 1291296, berjimek.com, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 22:42:02, 75, https://threatview.io/Downloads/High-Confidence-CobaltstrikeC2_platforms.txt, CobaltStrike,threatview-io, 0, abuse_ch
+2024-06-30 19:56:02, 1291289, tydyjtdfjhtf.con-ip.com, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RAT,Remcos, 0, nickkuechel
+2024-06-30 19:16:02, 1291277, kaylen.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:02, 1291278, ymuren.top, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:02, 1291279, corysy.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:02, 1291280, soterios.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:01, 1291275, kotawa.top, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:01, 1291276, aliszon.xyz, domain, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 18:54:02, 1291253, api.chinacec.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000,HostPapa, 0, drb_ra
+2024-06-30 16:44:45, 1291058, poliyhedira.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:44, 1291056, nightciows.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:44, 1291057, nightcirows.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:43, 1291054, modoe.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:42, 1291055, network.polyhedrao.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:41, 1291051, modeu.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:41, 1291052, modew.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:41, 1291053, modne.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:40, 1291050, m.chainlirst.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:39, 1291047, jitou.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:39, 1291048, jitoz.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:39, 1291049, kr.nightciows.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:38, 1291045, jitco.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:38, 1291046, jitot.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:37, 1291043, finance.aerodirome.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:37, 1291044, io.dedusit.io, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:36, 1291030, chainlirst.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:35, 1291029, chaimlstr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:35, 1291031, chainlirstr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:34, 1291032, chainlistr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:33, 1291033, chairnlirst.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:33, 1291034, chairnlist.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:33, 1291035, co.kr.nightciows.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:32, 1291036, dediust.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:32, 1291037, dedlust.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:31, 1291038, dedrust.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:31, 1291039, dedusit.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:30, 1291040, dedusit.io, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:30, 1291041, dedust.io.dedusit.io, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:29, 1291042, ere.yesis-store.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:28, 1291026, aerodrome.finance.aerodirome.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:28, 1291027, aerodromr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:28, 1291028, chaimlistr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:27, 1291024, aerodomc.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:27, 1291025, aerodomr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:26, 1291022, aerodirome.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:26, 1291023, aerodiromr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:25, 1291021, aerodiomc.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:17, 1291077, seeditfyu.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:16, 1291076, seeditfyr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:16, 1291078, seeditfyv.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:15, 1291075, seeditfyn.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:14, 1291072, seeditfyc.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:14, 1291073, seeditfyi.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:14, 1291074, seeditfym.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:13, 1291069, raydiuv.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:13, 1291070, raydiux.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:13, 1291071, raydiuz.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:12, 1291067, raydiur.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:12, 1291068, raydiuu.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:11, 1291064, raydiue.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:11, 1291065, raydiui.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:11, 1291066, raydiul.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:10, 1291063, raydima.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:09, 1291059, polyhedra.network.polyhedrao.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:09, 1291060, polyhedrao.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:09, 1291061, polyhedrao.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:09, 1291062, polyhiadira.network, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:07, 1291081, stream.pascalsoftware.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:06, 1291079, sitemaps.chainlistr.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:06, 1291080, specialdrilling38.ru, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:05, 1291082, synflntues.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:05, 1291083, synfntueis.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:05, 1291085, nsafabole.store, domain, botnet_cc, unknown, None, Unknown malware, , 75, , Panel,Saphira, 0, myceliumbroker
+2024-06-30 16:44:03, 1291084, synfntuies.com, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:44:01, 1291086, sanchezandmore.shop, domain, botnet_cc, unknown, None, Unknown malware, , 75, , Panel,Saphira, 0, myceliumbroker
+2024-06-30 16:44:00, 1291095, 77-220-212-71.netherlands-2.vps.ac, domain, botnet_cc, unknown, None, Unknown malware, , 100, , Fletchen,Panel, 0, myceliumbroker
+2024-06-30 16:43:55, 1291020, 82-147-85-159.networktube.net, domain, botnet_cc, apk.hook, None, Hook, , 100, , HookBot,Panel, 0, myceliumbroker
+2024-06-30 16:43:54, 1291016, boats.cloudboats.vip, domain, botnet_cc, elf.mirai, Katana, Mirai, , 75, None, Mirai, 0, elfdigest
+2024-06-30 10:13:30, 1291013, c2.yuyake.top, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,PEG-LA, 0, drb_ra
+2024-06-30 10:13:19, 1291010, www.qianxinnbplus.xyz, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,HKLNIL Landui Cloud ComputingHK Limited, 0, drb_ra
+2024-06-30 08:06:59, 1291000, conn.masjesu.zip, domain, botnet_cc, elf.bashlite, gayfgt,Gafgyt,qbot,torlus,lizkebab, Bashlite, , 100, https://bazaar.abuse.ch/sample/7798262d33e8ea811b9c8f565f745408f42cdd55248328630691fcab52fc116b/, Gafgyt, 0, abuse_ch
+2024-06-30 07:49:14, 1290988, connect.bolo-botnet.net, domain, botnet_cc, elf.moobot, None, MooBot, , 100, https://bazaar.abuse.ch/sample/77bac2b4723bdb6551cb2ed5d72075b68370b197ae59c321ae0ac0f6a02fb68b/, MooBot, 0, abuse_ch
+2024-06-30 07:33:47, 1290809, ellaboratepwsz.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:44, 1290800, contintnetksows.shop, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, 2024-06-29 21:27:03, 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:44, 1290801, reinforcedirectorywd.shop, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:43, 1290798, potterryisiw.shop, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, 2024-06-29 21:27:03, 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:43, 1290799, foodypannyjsud.shop, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, 2024-06-29 21:27:03, 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:42, 1290797, piedsiggnycliquieaw.shop, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, 2024-06-29 21:27:03, 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:39, 1290511, botnet.4gnekoland.top, domain, botnet_cc, elf.moobot, None, MooBot, , 75, None, Moobot, 0, elfdigest
+2024-06-30 07:33:35, 1290810, pedestriankodwu.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:35, 1290811, penetratedpoopp.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:34, 1290812, swellfrrgwwos.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
+2024-06-30 07:33:34, 1290813, towerxxuytwi.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
+2024-06-30 01:24:02, 1290831, ghostghostcom.000webhostapp.com, domain, botnet_cc, win.gomorrah_stealer, None, Gomorrah stealer, 2024-06-30 22:48:03, 50, https://tracker.viriback.com/index.php?q=ghostghostcom.000webhostapp.com, Gomorrah,ViriBack, 0, abuse_ch

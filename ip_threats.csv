@@ -3558,3 +3558,147 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-29 06:21:25, 1290459, 91.206.178.85, ip, botnet_cc, win.quasar_rat, CinaRAT,QuasarRAT,Yggdrasil, Quasar RAT, , 50, , None, 0, hunting_rabbits
 2024-06-29 06:21:21, 1290460, 160.19.78.131, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 50, , None, 0, hunting_rabbits
 2024-06-29 06:10:16, 1290463, 92.246.138.36, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-30 19:16:01, 1291270, 128.140.53.5, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:01, 1291272, 168.119.118.92, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:01, 1291274, 77.221.158.54, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:00, 1291267, 195.201.251.214, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 19:16:00, 1291269, 65.109.243.105, ip, botnet_cc, win.vidar, None, Vidar, , 100, , Vidar, 0, crep1x
+2024-06-30 18:49:27, 1291248, 197.0.49.10, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/197.0.49.10, AsyncRAT,TOPNET, 0, drb_ra
+2024-06-30 18:48:58, 1291247, 91.151.89.25, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/91.151.89.25, Hookbot Pegasus,HOSTINGDUNYAM HOSTING DUNYAM, 0, drb_ra
+2024-06-30 18:48:34, 1291246, 152.32.172.190, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/152.32.172.190, Supershell,UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, 0, drb_ra
+2024-06-30 18:48:12, 1291245, 124.220.222.35, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/124.220.222.35, Supershell,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, 0, drb_ra
+2024-06-30 18:47:35, 1291244, 65.109.183.189, ip, botnet_cc, py.responder, SpiderLabs Responder, Responder, , 50, https://search.censys.io/hosts/65.109.183.189, HETZNER-AS,Responder, 0, drb_ra
+2024-06-30 18:46:12, 1291243, 36.131.128.111, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/36.131.128.111, CHINAMOBILE-CN China Mobile Communications Group Co. Ltd.,Deimos, 0, drb_ra
+2024-06-30 17:55:15, 1291241, 51.195.206.227, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, 2024-06-30 19:58:45, 100, None, RedLineStealer, 0, abuse_ch
+2024-06-30 16:44:01, 1291087, 94.103.83.129, ip, botnet_cc, unknown, None, Unknown malware, , 75, , Panel,Saphira, 0, myceliumbroker
+2024-06-30 16:44:01, 1291088, 77.238.242.152, ip, botnet_cc, unknown, None, Unknown malware, , 75, , Panel,Saphira, 0, myceliumbroker
+2024-06-30 16:44:00, 1291089, 78.153.139.18, ip, botnet_cc, unknown, None, Unknown malware, , 75, , Panel,Saphira, 0, myceliumbroker
+2024-06-30 16:44:00, 1291096, 176.57.212.127, ip, botnet_cc, unknown, None, Unknown malware, , 100, , Fletchen,Panel, 0, myceliumbroker
+2024-06-30 16:43:59, 1291097, 89.116.110.165, ip, botnet_cc, unknown, None, Unknown malware, , 100, , Fletchen,Panel, 0, myceliumbroker
+2024-06-30 16:43:59, 1291138, 94.158.244.72, ip, botnet_cc, elf.bashlite, gayfgt,Gafgyt,qbot,torlus,lizkebab, Bashlite, , 75, None, Gafgyt, 0, elfdigest
+2024-06-30 16:43:59, 1291240, 108.170.52.131, ip, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/search?q=services.tls.certificates.leaf_fp_sha_256%3D%22c11c40e1299df046e73784734d7b8de16f25fd9f56ec6dc0b3b8d7aba86696cd%22&resource=hosts, Bianlian Go Trojan, 0, Syndikalist
+2024-06-30 16:43:54, 1291015, 198.7.114.191, ip, botnet_cc, elf.mirai, Katana, Mirai, , 75, None, Mirai, 0, elfdigest
+2024-06-30 15:31:54, 1291101, 84.32.41.112, ip, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 60, None, backconnect, 0, Rony
+2024-06-30 12:24:02, 1291018, 77.91.77.82, ip, botnet_cc, win.amadey, None, Amadey, 2024-06-30 22:48:02, 50, https://tracker.viriback.com/index.php?q=77.91.77.82, Amadey,ViriBack, 0, abuse_ch
+2024-06-30 10:13:31, 1291014, 107.148.146.30, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321,PEG-LA, 0, drb_ra
+2024-06-30 10:13:20, 1291011, 162.251.94.192, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666666,HKLNIL Landui Cloud ComputingHK Limited, 0, drb_ra
+2024-06-30 08:08:07, 1291001, 95.214.27.187, ip, botnet_cc, elf.bashlite, gayfgt,Gafgyt,qbot,torlus,lizkebab, Bashlite, , 75, https://bazaar.abuse.ch/sample/7798262d33e8ea811b9c8f565f745408f42cdd55248328630691fcab52fc116b/, Gafgyt, 0, abuse_ch
+2024-06-30 08:08:07, 1291002, 95.214.27.160, ip, botnet_cc, elf.bashlite, gayfgt,Gafgyt,qbot,torlus,lizkebab, Bashlite, , 75, https://bazaar.abuse.ch/sample/7798262d33e8ea811b9c8f565f745408f42cdd55248328630691fcab52fc116b/, Gafgyt, 0, abuse_ch
+2024-06-30 08:08:07, 1291003, 37.44.238.67, ip, botnet_cc, elf.bashlite, gayfgt,Gafgyt,qbot,torlus,lizkebab, Bashlite, , 75, https://bazaar.abuse.ch/sample/7798262d33e8ea811b9c8f565f745408f42cdd55248328630691fcab52fc116b/, Gafgyt, 0, abuse_ch
+2024-06-30 07:59:14, 1290996, 194.113.74.24, ip, botnet_cc, win.sliver, None, Sliver, 2024-06-30 08:01:21, 50, , c2,sliver, 0, hunting_rabbits
+2024-06-30 07:50:08, 1290995, 4.213.168.254, ip, botnet_cc, elf.moobot, None, MooBot, , 75, https://bazaar.abuse.ch/sample/77bac2b4723bdb6551cb2ed5d72075b68370b197ae59c321ae0ac0f6a02fb68b/, MooBot, 0, abuse_ch
+2024-06-30 07:49:32, 1290994, 91.92.244.163, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:49:31, 1290993, 103.234.72.208, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:49:26, 1290992, 101.42.247.112, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:49:25, 1290991, 23.95.65.198, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:49:21, 1290990, 159.75.169.189, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:49:19, 1290989, 47.109.186.179, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:48:59, 1290987, 47.95.31.143, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:48:18, 1290985, 172.245.110.33, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:48:17, 1290984, 45.61.138.167, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:48:13, 1290983, 39.106.83.74, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:48:12, 1290982, 46.183.27.41, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:48:09, 1290981, 43.207.204.175, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:47:24, 1290978, 106.14.69.133, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:47:22, 1290977, 176.109.109.84, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:47, 1290975, 18.183.19.253, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:12, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:39:46, 1290972, 114.55.250.233, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:21, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:46, 1290973, 34.132.104.7, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:46, 1290974, 39.100.182.56, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:20, 100, None, CobaltStrike,cs-watermark-666666666, 0, abuse_ch
+2024-06-30 07:39:45, 1290970, 112.126.85.180, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:14, 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:39:45, 1290971, 49.232.199.246, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:39:44, 1290968, 110.40.138.5, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:29, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:44, 1290969, 114.55.57.77, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:22, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:42, 1290965, 49.232.227.129, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:19, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:39:42, 1290967, 199.195.252.200, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:32, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:41, 1290963, 43.136.218.157, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:09, 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:39:40, 1290961, 43.139.107.157, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:11, 100, None, CobaltStrike,cs-watermark-305419896, 0, abuse_ch
+2024-06-30 07:39:40, 1290962, 117.50.196.200, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:14, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:39:38, 1290959, 64.7.198.173, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:35, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:36, 1290956, 139.9.205.12, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:34, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:36, 1290957, 43.153.222.28, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:25, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:39:35, 1290955, 97.64.18.185, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:25, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:32, 1290953, 121.43.124.191, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:31, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:32, 1290954, 120.53.236.103, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:17, 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:39:31, 1290952, 111.231.20.220, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:30, 100, None, CobaltStrike,cs-watermark-305419896, 0, abuse_ch
+2024-06-30 07:39:29, 1290950, 119.91.144.105, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:09, 100, None, CobaltStrike,cs-watermark-1359593325, 0, abuse_ch
+2024-06-30 07:39:27, 1290949, 134.175.229.118, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:35, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:39:26, 1290948, 47.108.106.118, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:58, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:39:25, 1290947, 8.219.146.174, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:37, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:23, 1290944, 154.221.24.44, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:42, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:18, 1290943, 8.217.137.245, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:10, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:14, 1290941, 8.141.13.130, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike, 0, abuse_ch
+2024-06-30 07:39:07, 1290940, 47.121.112.235, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:58, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:39:05, 1290939, 47.236.74.146, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:34, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:57, 1290937, 43.138.132.137, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:38:56, 1290936, 39.108.220.93, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:49, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:53, 1290935, 185.117.0.43, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:38:52, 1290934, 185.201.226.192, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:35, 1290931, 119.45.21.247, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:31, 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:38:33, 1290930, 115.159.50.50, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:32, 1290929, 112.124.6.100, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:27, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:29, 1290928, 106.54.236.42, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:25, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:38:28, 1290927, 106.75.249.81, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:24, 1290926, 101.200.120.13, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:21, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:23, 1290925, 124.222.37.211, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:21, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:22, 1290924, 211.149.252.96, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:33, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:38:21, 1290923, 124.222.72.51, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:26, 100, None, CobaltStrike,cs-watermark-666666666, 0, abuse_ch
+2024-06-30 07:38:20, 1290922, 91.92.248.235, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:38:19, 1290920, 120.26.139.208, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:49, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:38:19, 1290921, 103.146.159.3, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:10, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:17, 1290918, 54.237.218.187, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:17, 1290919, 120.79.8.117, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:16, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:16, 1290917, 18.138.122.192, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:30, 100, None, CobaltStrike,cs-watermark-666666666, 0, abuse_ch
+2024-06-30 07:38:15, 1290916, 185.77.226.142, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:39, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:14, 1290915, 47.109.77.9, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:34, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:38:11, 1290913, 103.225.9.174, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:35, 100, None, CobaltStrike,cs-watermark-666666666, 0, abuse_ch
+2024-06-30 07:38:11, 1290914, 39.100.91.89, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:26, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:10, 1290912, 106.53.22.217, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:33, 100, None, CobaltStrike,cs-watermark-666666, 0, abuse_ch
+2024-06-30 07:38:08, 1290911, 220.249.191.101, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:25, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:38:04, 1290910, 116.204.75.247, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666, 0, abuse_ch
+2024-06-30 07:38:03, 1290909, 43.138.150.207, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike, 0, abuse_ch
+2024-06-30 07:38:02, 1290908, 154.44.10.182, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:38:01, 1290907, 47.97.100.26, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:01, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:37:59, 1290906, 121.37.226.97, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-305419896, 0, abuse_ch
+2024-06-30 07:37:58, 1290905, 35.238.182.197, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:45, 100, None, CobaltStrike,cs-watermark-666666666, 0, abuse_ch
+2024-06-30 07:37:57, 1290903, 124.223.101.175, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:38, 100, None, CobaltStrike,cs-watermark-305419896, 0, abuse_ch
+2024-06-30 07:37:57, 1290904, 95.214.234.74, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:55, 1290901, 111.231.74.72, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:44, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:37:55, 1290902, 43.138.0.7, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:54, 1290900, 124.221.22.144, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-666666, 0, abuse_ch
+2024-06-30 07:37:53, 1290899, 62.234.34.114, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:52, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:52, 1290898, 129.211.214.71, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:37:51, 1290895, 103.225.196.210, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:35, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:51, 1290896, 47.92.70.19, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:53, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:37:50, 1290894, 85.209.153.114, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:49, 1290892, 106.54.197.233, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:37, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:48, 1290890, 107.172.34.126, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:33, 100, None, CobaltStrike,cs-watermark-666666666, 0, abuse_ch
+2024-06-30 07:37:48, 1290891, 47.97.96.79, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:18, 100, None, CobaltStrike,cs-watermark-100000, 0, abuse_ch
+2024-06-30 07:37:46, 1290888, 8.137.87.159, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:18, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:37:46, 1290889, 47.108.164.45, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:23, 100, None, CobaltStrike,cs-watermark-1873433027, 0, abuse_ch
+2024-06-30 07:37:43, 1290886, 8.134.139.130, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:10, 100, None, CobaltStrike,cs-watermark-666666, 0, abuse_ch
+2024-06-30 07:37:40, 1290885, 47.92.30.116, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:21, 100, None, CobaltStrike,cs-watermark-426352781, 0, abuse_ch
+2024-06-30 07:37:38, 1290883, 155.94.204.114, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:05, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:31, 1290882, 106.75.15.3, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:37:30, 1290880, 91.149.236.162, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:36, 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:37:29, 1290878, 107.189.13.28, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:49:36, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:37:29, 1290879, 154.9.253.110, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:48:43, 100, None, CobaltStrike,cs-watermark-391144938, 0, abuse_ch
+2024-06-30 07:37:28, 1290877, 112.124.33.134, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:26, 100, None, CobaltStrike,cs-watermark-1234567890, 0, abuse_ch
+2024-06-30 07:37:27, 1290876, 8.134.137.100, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, 2024-06-30 07:47:50, 100, None, CobaltStrike,cs-watermark-987654321, 0, abuse_ch
+2024-06-30 07:33:40, 1290541, 103.139.1.202, ip, botnet_cc, apk.ermac, None, ERMAC, , 100, https://bazaar.abuse.ch/sample/7a4238fc6f5d3c7731c2eb33911298eaa36986040858af56e76628c5dc83e265/, Ermac, 0, NDA0E
+2024-06-30 07:33:38, 1290510, 15.235.209.194, ip, botnet_cc, elf.moobot, None, MooBot, , 75, None, Moobot, 0, elfdigest
+2024-06-30 07:33:36, 1290802, 5.59.248.220, ip, botnet_cc, elf.mirai, Katana, Mirai, , 75, None, Mirai, 0, elfdigest
+2024-06-30 06:49:51, 1290873, 185.241.208.181, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/185.241.208.181, AsyncRAT,SERVICES-1337-GMBH 1337-SERVICES-GMBH-NETWORK, 0, drb_ra
+2024-06-30 06:49:46, 1290872, 46.246.6.14, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 50, https://search.censys.io/hosts/46.246.6.14, AsyncRAT,PORTLANE www.portlane.com, 0, drb_ra
+2024-06-30 06:49:18, 1290871, 91.92.240.70, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/91.92.240.70, Hookbot Pegasus,LIMENET, 0, drb_ra
+2024-06-30 06:48:54, 1290870, 176.32.38.11, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/176.32.38.11, ASBAXETN,Supershell, 0, drb_ra
+2024-06-30 06:48:06, 1290868, 79.107.142.212, ip, botnet_cc, win.qakbot, Oakboat,Pinkslipbot,Qbot,Quakbot, QakBot, , 50, https://search.censys.io/hosts/79.107.142.212, Qakbot,WIND-AS, 0, drb_ra
+2024-06-30 06:46:34, 1290867, 37.111.183.34, ip, botnet_cc, win.deimos, None, Deimos, , 50, https://search.censys.io/hosts/37.111.183.34, Deimos,TPP-AS-PK Telenor Pakistan, 0, drb_ra
+2024-06-30 06:46:10, 1290866, 52.183.57.173, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/52.183.57.173, MICROSOFT-CORP-MSN-AS-BLOCK,Mythic, 0, drb_ra
+2024-06-30 06:45:54, 1290865, 178.18.254.10, ip, botnet_cc, unknown, None, Unknown malware, , 50, https://search.censys.io/hosts/178.18.254.10, CONTABO,Covenant, 0, drb_ra
+2024-06-30 03:52:10, 1290861, 4.185.58.68, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-2018372819,MICROSOFT-CORP-MSN-AS-BLOCK, 0, drb_ra
+2024-06-30 03:51:50, 1290860, 101.36.111.47, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike,cs-watermark-100000000,UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, 0, drb_ra
+2024-06-30 01:10:14, 1290829, 117.50.177.53, ip, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, CobaltStrike, 0, abuse_ch
+2024-06-30 00:05:13, 1290826, 120.78.7.92, ip, botnet_cc, win.meterpreter, None, Meterpreter, , 100, None, Meterpreter, 0, abuse_ch
+2024-06-29 23:55:14, 1290825, 91.92.240.220, ip, botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer, , 100, None, RedLineStealer, 0, abuse_ch
+2024-06-29 23:45:08, 1290824, 20.199.8.16, ip, botnet_cc, win.asyncrat, None, AsyncRAT, , 75, https://bazaar.abuse.ch/sample/27d5e1f8e49a537ecbd834bf1fa4ed193cba9401cedcc85232b82ef0aaf1b217/, asyncrat, 0, abuse_ch
