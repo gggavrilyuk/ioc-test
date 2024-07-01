@@ -2457,3 +2457,46 @@ first_seen_utc,ioc_id,ioc_value,ioc_type,threat_type,fk_malware,malware_alias,ma
 2024-06-30 07:33:34, 1290812, swellfrrgwwos.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
 2024-06-30 07:33:34, 1290813, towerxxuytwi.xyz, domain, botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer, , 100, , LummaStealer, 0, NDA0E
 2024-06-30 01:24:02, 1290831, ghostghostcom.000webhostapp.com, domain, botnet_cc, win.gomorrah_stealer, None, Gomorrah stealer, 2024-06-30 22:48:03, 50, https://tracker.viriback.com/index.php?q=ghostghostcom.000webhostapp.com, Gomorrah,ViriBack, 0, abuse_ch
+2024-07-01 22:14:51, 1292035, heart-direct.online, domain, botnet_cc, win.cobalt_strike, Agentemis,BEACON,CobaltStrike,cobeacon, Cobalt Strike, , 100, None, AS56971 AS56971 Cloud,CobaltStrike,cs-watermark-987654321, 0, drb_ra
+2024-07-01 18:02:41, 1292006, brithcaymo.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:41, 1292007, ernofilosta.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:41, 1292008, lofirenqveg.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:40, 1292009, manclinoste.website, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:40, 1292010, prodetanoes.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:39, 1292011, prufkespotr.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:39, 1292012, shopboksret.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), 2024-07-01 18:02:44, 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 18:02:38, 1292013, trymeakafr.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), , 85, None, Latrodectus, 0, teamcymru_S2
+2024-07-01 17:48:59, 1292004, lmfaololxdlmfaolmfao.xyz, domain, botnet_cc, elf.moobot, None, MooBot, , 100, https://bazaar.abuse.ch/sample/9df16e009504f0524cd6b1d571094ecd269147e7f9c22210a5cafb93c0806260/, MooBot, 0, abuse_ch
+2024-07-01 17:43:38, 1291992, joeyrichl.top, domain, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/hosts/91.245.253.10, Bianlian Go Troja, 0, Syndikalist
+2024-07-01 17:43:35, 1291769, vegetachcnc.com, domain, botnet_cc, win.remcos, RemcosRAT,Remvio,Socmer, Remcos, , 100, , RemcosRAT, 0, NDA0E
+2024-07-01 17:43:31, 1291789, propertyclosings.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, https://infosec.exchange/@monitorsg/112711409813746499, SmartApeSG, 0, monitorsg
+2024-07-01 17:43:29, 1291794, speedchaoptimise.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, , KeitaroTDS,SocGholish, 0, rmceoin
+2024-07-01 17:43:29, 1291795, frontendcodingtips.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, , KeitaroTDS,SocGholish, 0, rmceoin
+2024-07-01 17:43:28, 1291991, tppen-op.one, domain, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/hosts/91.245.253.10, Bianlian Go Troja, 0, Syndikalist
+2024-07-01 17:43:27, 1291993, gard-ner-toyota.com, domain, botnet_cc, win.bianlian, None, BianLian, , 50, https://search.censys.io/hosts/91.245.253.10, Bianlian Go Troja, 0, Syndikalist
+2024-07-01 17:43:26, 1291996, daslkjfhi2.shop, domain, payload_delivery, js.clearfake, None, ClearFake, , 100, None, ClearFake, 0, threatcat_ch
+2024-07-01 17:43:24, 1291998, beetrootculture.com, domain, payload_delivery, js.fakeupdates, FakeUpdate,SocGholish, FAKEUPDATES, , 100, None, SmartApeSG, 0, monitorsg
+2024-07-01 12:32:40, 1291785, zug-login.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291775, agovaccess-ch.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291776, b2cidp-mobilier.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291777, eportal-be.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291778, eportal-bs.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291779, finanzportal-vermogenzsentrum.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291780, finanzportal-vermogenzsentrum.net, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291781, getgrammerly.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291782, loginzug.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291783, portals-swisslife.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 12:32:39, 1291784, sso-geneveid.com, domain, payload_delivery, osx.poseidon, None, Poseidon, , 100, , agov,CHE,geo,PoseidonStealer, 0, abuse_ch
+2024-07-01 09:39:59, 1291381, cx5519.com, domain, botnet_cc, win.smokeloader, Dofoil,Sharik,Smoke,Smoke Loader, SmokeLoader, , 100, https://bazaar.abuse.ch/sample/1e7fb39c52ba502920d98374e0cdf8a2447c737bd0b88c06839e81be3a751688/, Dofoil,Smoke Loader, 0, abuse_ch
+2024-07-01 09:39:59, 1291382, evilos.cc, domain, botnet_cc, win.smokeloader, Dofoil,Sharik,Smoke,Smoke Loader, SmokeLoader, , 100, https://bazaar.abuse.ch/sample/1e7fb39c52ba502920d98374e0cdf8a2447c737bd0b88c06839e81be3a751688/, Dofoil,Smoke Loader, 0, abuse_ch
+2024-07-01 09:39:59, 1291383, gebeus.ru, domain, botnet_cc, win.smokeloader, Dofoil,Sharik,Smoke,Smoke Loader, SmokeLoader, , 100, https://bazaar.abuse.ch/sample/1e7fb39c52ba502920d98374e0cdf8a2447c737bd0b88c06839e81be3a751688/, Dofoil,Smoke Loader, 0, abuse_ch
+2024-07-01 09:39:59, 1291384, office-techs.biz, domain, botnet_cc, win.smokeloader, Dofoil,Sharik,Smoke,Smoke Loader, SmokeLoader, , 100, https://bazaar.abuse.ch/sample/1e7fb39c52ba502920d98374e0cdf8a2447c737bd0b88c06839e81be3a751688/, Dofoil,Smoke Loader, 0, abuse_ch
+2024-07-01 09:39:16, 1291353, asdaryder.duckdns.org, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-07-01 09:39:13, 1291357, anmon.name, domain, botnet_cc, unknown, None, Unknown malware, , 100, , AndrMonitor,AnMon, 0, NDA0E
+2024-07-01 09:39:13, 1291376, indepahote.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), 2024-07-01 18:00:24, 50, , None, 1, ian_kenefick
+2024-07-01 09:39:12, 1291377, movegomove.com, domain, botnet_cc, win.unidentified_111, BLACKWIDOW,IceNova,Latrodectus,Lotus, Unidentified 111 (Latrodectus), 2024-07-01 18:02:43, 50, , None, 1, ian_kenefick
+2024-07-01 07:43:44, 1291351, pcvcf.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-07-01 07:43:44, 1291352, padrf.xyz, domain, botnet_cc, win.acr_stealer, None, ACR Stealer, , 100, , ACR Stealer, 0, crep1x
+2024-07-01 06:45:54, 1291283, googledocs.duckdns.org, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-07-01 06:45:53, 1291285, provided-existence.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
+2024-07-01 06:45:52, 1291287, them-recommended.gl.at.ply.gg, domain, botnet_cc, win.njrat, Bladabindi,Lime-Worm, NjRAT, , 75, None, njrat,RAT, 0, SarlackLab
